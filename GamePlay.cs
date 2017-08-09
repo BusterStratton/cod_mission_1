@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 public class GamePlay
 {
-    internal static void gpHUDLogCenter(string message)
+    internal static void gpHUDLogCenter(string message)//question below
     {
-        Console.WriteLine($"gpHUDLogCenter: {message}");
+        Console.WriteLine($"gpHUDLogCenter: {message}");//question below
     }
 
     internal static IEnumerable<AiAirport> gpAirports()
