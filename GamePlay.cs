@@ -20,4 +20,9 @@ public class GamePlay
             new AiAirport("")
         };
     }
+
+    internal static void gpPostMissionLoad(string mission)
+    {
+        throw new NotImplementedException();
+    }
 }
