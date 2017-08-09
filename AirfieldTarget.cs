@@ -84,7 +84,9 @@ public class AirfieldTarget
 
             // Message User
             var message = $"{InGameName} is {PercentDestroyed}% destroyed";
-            GamePlay.gpHUDLogCenter(message);
+           // GamePlay.gpHUDLogCenter(message); using HUD is a huge graphical hit on all players and takes away from the immersion 
+            GamePlay.gpLogServer(null, message, new object[] { });// this (message) will appear in the chat window small but readable with no graphical hit 
+            
             return true;
         }
 
