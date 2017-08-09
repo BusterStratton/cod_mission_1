@@ -84,7 +84,10 @@ public class AirfieldTarget
 
             // Message User
             var message = $"{InGameName} is {PercentDestroyed}% destroyed";
-            GamePlay.gpHUDLogCenter(message);
+            //GamePlay.gpHUDLogCenter(message);/// uses huge graphical hit to display message those below have no effect on players graphics
+            GamePlay.gpLogServer(null, message, new object[] { });
+             sendScreenMessageTo(1, message, null);// one is red and 2 is Blue team
+             sendScreenMessageTo(2, message, null);
             return true;
         }
 
