@@ -15,6 +15,7 @@ namespace targets
             var rng = new Random();
 
             // Step 1 - Build up some objectives
+            /// below if team is german like example "Abbeville Fuel" the germans own Abbeville so the British must target it 
             var objectives = new List<AirfieldTarget>(){
                 new AirfieldTarget("Abbeville Fuel", Objective.abbevillefuel, Team.German, 0, 10000),
                 new AirfieldTarget("Arras Fuel", Objective.arrasfuel, Team.German, 0, 10000),
@@ -44,8 +45,10 @@ namespace targets
             };
 
             // Step 2 - Create the teams
-            var blueTeam = new ObjectiveTeam(Team.British, objectives.Where(s=> s.Team == Team.British));
-            var redTeam = new ObjectiveTeam(Team.German, objectives.Where(s=> s.Team == Team.German));
+            
+            //game sees teams as red and blue hence Red is British and Blue is German
+            var blueTeam = new ObjectiveTeam(Team.German, objectives.Where(s=> s.Team == Team.German));
+            var redTeam = new ObjectiveTeam(Team.British, objectives.Where(s=> s.Team == Team.British));
 
 
 
