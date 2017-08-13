@@ -101,7 +101,7 @@
 [Buildings]
 [BuildingsLinks]
 [Trigger]
-  biggin_hit TGroundDestroyed 1 155571 253972 1000
-  biggin_light TGroundDestroyed 20 155571 253972 1000
-  biggin_heavy TGroundDestroyed 80 155559 253951 1000
-  biggin_medium TGroundDestroyed 50 155568 253972 1000
+ 
+  
+  Poix_destroyed TGroundDestroyed 80 155559 253951 1000
+  
