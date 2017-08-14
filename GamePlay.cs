@@ -8,6 +8,11 @@ public class GamePlay
         Console.WriteLine($"gpHUDLogCenter: {message}");
     }
 
+    internal static void gpLogServer(Player[] to, object data, object[] third)
+    {
+        Console.WriteLine($"gpHUDLogCenter: {(string)data}");
+    }
+
     internal static IEnumerable<AiAirport> gpAirports()
     {
         return new List<AiAirport>(){
