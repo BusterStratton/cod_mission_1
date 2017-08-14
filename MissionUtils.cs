@@ -7,15 +7,19 @@ namespace targets
     public class MissionUtils
     {
         static string basePath = Path.Combine("missions", "Multi", "Fatal", "Campaign2");
-        static string targetFile = Path.Combine(basePath, "thebattle_targets.txt");
-
         static string targetMissionFolder = Path.Combine(basePath, "targets");
         static string spawnpointFolder = Path.Combine(basePath, "spawnpoints");
 
-        public static void ReadTargets(){
-            var targetFilePath = Path.Combine(Directory.GetCurrentDirectory(), "thebattle_targets.txt");
-            FileStream targets = File.Open(targetFilePath, FileMode.Open);
-            StreamReader sr = new StreamReader(targets);
+        public static List<string> ReadTargets(){
+            var targets = new List<string>();
+            var currentDirectory = Directory.GetCurrentDirectory();
+            var targetFilePath = Path.Combine(currentDirectory, "thebattle_targets.txt");
+            FileStream targetFile = File.Open(targetFilePath, FileMode.Open);
+            StreamReader sr = new StreamReader(targetFile);
+            while(!sr.EndOfStream){
+                targets.Add(sr.ReadLine().Trim());
+            }
+            return targets;
         }
     }
 }
