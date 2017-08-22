@@ -1,0 +1,47 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 150000 100000 100000 150000 1000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static33 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229277.47 101120.52 220.00 
+  Static34 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229273.98 101158.76 220.00 
+  Static35 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229273.98 101165.71 220.00 
+  Static36 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229273.98 101210.90 220.00 
+  Static37 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229277.47 101242.19 220.00 
+  Static38 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229284.42 101280.42 220.00 
+  Static39 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229277.47 101297.80 220.00 
+  Static40 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229277.47 101304.76 220.00 
+  Static41 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229273.98 100984.95 220.00 
+  Static42 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229267.03 101037.09 220.00 
+  Static43 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229249.66 101099.66 220.00 
+  Static44 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229232.27 101162.23 220.00 
+  Static45 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229228.80 101190.04 220.00 
+  Static46 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229225.33 101217.85 220.00 
+  Static47 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229221.84 101245.66 220.00 
+  Static48 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229239.22 101064.90 220.00 
+  Static49 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229221.84 101117.04 220.00 
+  Static50 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229211.42 101151.80 220.00 
+  Static51 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229197.52 101190.04 220.00 
+  Static52 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229190.56 101207.42 220.00 
+  Static53 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229180.13 101238.71 220.00 
+  Static54 Stationary.Environment.BombCrater_LooseSoil_largekg nn 229173.17 101256.09 220.00 
+  Static0 Smoke.Environment.Smoke2 nn 229210.59 101232.47 220.00 /height 1.00
+  Static1 Smoke.Environment.Smoke2 nn 229262.89 101097.52 220.00 /height 1.00
+  Static2 Smoke.Environment.Smoke2 nn 229278.91 101228.26 220.00 /height 1.00
+[Buildings]
+[BuildingsLinks]

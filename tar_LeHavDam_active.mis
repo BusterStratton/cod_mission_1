@@ -1,0 +1,41 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static0 Artillery.20_mm_Flak_38 gb 176840.20 47779.52 815.00 /timeout 0/radius_hide 0
+  Static1 Artillery.20_mm_Flak_38 gb 176920.92 47069.20 815.00 /timeout 0/radius_hide 0
+  Static2 Artillery.20_mm_Flak_38 gb 176955.67 47735.60 815.00 /timeout 0/radius_hide 0/hstart 9
+  Static3 Artillery.20_mm_Flak_38 gb 177007.61 47146.29 815.00 /timeout 0/radius_hide 0/hstart 9
+  Static4 Artillery.Bofors_StandAlone gb 176660.94 47988.68 815.00 /timeout 0/radius_hide 0
+  Static5 Artillery.Bofors_StandAlone gb 176578.13 47872.76 815.00 /timeout 0/radius_hide 0
+  Static6 Artillery.Bofors_StandAlone gb 176418.05 47745.79 815.00 /timeout 0/radius_hide 0
+  Static7 Artillery.Bofors_StandAlone gb 176837.69 46862.86 815.00 /timeout 0/radius_hide 0
+  Static8 Artillery.Bofors_StandAlone gb 176694.13 46906.82 815.00 /timeout 0/radius_hide 0
+  Static9 Artillery.Bofors_StandAlone gb 176539.48 46956.42 815.00 /timeout 0/radius_hide 0
+  Static10 Artillery.Bofors_StandAlone gb 177608.78 48056.79 815.00 /timeout 0/radius_hide 0
+  Static11 Artillery.Bofors_StandAlone gb 177621.25 47096.46 815.00 /timeout 0/radius_hide 0
+[Buildings]
+  0_bld buildings.House$StraightPier200mWall 1 176980.35 47640.92 635.00
+  1_bld buildings.House$StraightPier200mWall 1 176998.08 47441.83 635.00
+  2_bld buildings.House$StraightPier200mWall 1 177015.81 47243.70 635.00
+  3_bld buildings.House$PierEnd_L 1 177025.99 47145.19 635.00
+  4_bld buildings.House$PierEnd_R 1 176971.99 47739.72 815.00
+[BuildingsLinks]
+[Trigger]
+  LeHav TGroundDestroyed 100 157322 57888 750
