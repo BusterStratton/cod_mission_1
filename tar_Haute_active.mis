@@ -1,0 +1,33 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static8 Artillery.Bofors_StandAlone gb 293790.13 64384.80 180.00 /timeout 0/radius_hide 0
+  Static9 Artillery.Bofors_StandAlone gb 293866.03 65245.87 180.00 /timeout 0/radius_hide 0
+  Static10 Artillery.Bofors_StandAlone gb 292624.94 65393.31 180.00 /timeout 0/radius_hide 0
+  Static11 Artillery.Bofors_StandAlone gb 292610.66 64242.43 180.00 /timeout 0/radius_hide 0
+  Static0 Artillery.Flak30_Shield gb 293652.19 64198.91 180.00 /timeout 0/radius_hide 0
+  Static1 Artillery.Flak30_Shield gb 292363.88 65236.37 180.00 /timeout 0/radius_hide 0
+  Static2 Artillery.Flak30_Shield gb 293908.94 64817.93 180.00 /timeout 0/radius_hide 0
+  Static3 Artillery.Flak30_Shield gb 292358.63 64703.73 180.00 /timeout 0/radius_hide 0
+[Buildings]
+  0_bld buildings.House$Hangar_01_FRA 1 292915.04 64175.85 180.00
+[BuildingsLinks]
+[Trigger]
+  GrandV TGroundDestroyed 80 291094 73578 900

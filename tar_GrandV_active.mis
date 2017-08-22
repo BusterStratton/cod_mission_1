@@ -1,0 +1,405 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static0 Stationary.Environment.SandBagWall_Line_12m gb 291273.56 74237.60 270.00 
+  Static1 Stationary.Environment.SandBagWall_Line_12m gb 291267.78 74243.46 180.00 
+  Static2 Artillery.3_inch_20_CWT_QF_Mk_I gb 291277.63 74248.12 85.00 /timeout 0/radius_hide 0
+  Static3 Stationary.Environment.SandBagWall_Arch nn 291310.25 74240.79 175.00 
+  Static4 Stationary.Environment.Ladder_UK3 nn 291312.03 74241.08 270.00 /hstart -1
+  Static5 Stationary.Trenches.Trench_Front nn 291313.53 74240.58 270.00 
+  Static6 Stationary.Environment.SandBagWall_Line_4m nn 291316.66 74238.48 450.00 
+  Static7 Stationary.Environment.SandBagWall_Line_4m nn 291316.56 74242.58 450.00 
+  Static8 Stationary.Trenches.Trench_Front nn 291319.50 74240.62 90.00 
+  Static9 Stationary.Environment.Ladder_UK3 nn 291321.03 74240.04 450.00 /hstart -1
+  Static10 Artillery.Bofors gb 291296.81 74268.09 90.00 /timeout 0/radius_hide 0
+  Static11 Stationary.Environment.SandBagWall_Line_12m gb 291287.63 74277.57 180.00 
+  Static12 Stationary.Environment.Fire_pump_UK2 gb 291297.41 74277.43 90.00 
+  Static13 Stationary.Environment.SandBagWall_Line_12m gb 291317.69 74257.57 270.00 
+  Static14 Artillery.SoundLocator_MkIIIV_UK1 gb 291317.78 74267.71 45.00 /timeout 0/radius_hide 0
+  Static15 Stationary.Environment.Predictor gb 291297.75 74287.71 90.00 
+  Static16 Stationary.Environment.Portable_Siren_UK1 gb 291316.56 74278.12 180.00 
+  Static17 Artillery.Bofors gb 291317.69 74287.71 90.00 /timeout 0/radius_hide 0
+  Static18 Stationary.Environment.SandBagWall_Line_12m gb 291317.50 74297.54 270.00 
+  Static19 Stationary.Environment.SandBagWall_Arch nn 291322.81 74240.63 360.00 
+  Static20 Stationary.Environment.SandBagWall_Line_12m gb 291361.81 74237.79 270.00 
+  Static21 Artillery.3_inch_20_CWT_QF_Mk_I gb 291358.41 74246.60 90.00 /timeout 0/radius_hide 0
+  Static22 Artillery.Bofors gb 291336.94 74268.09 90.00 /timeout 0/radius_hide 0
+  Static23 Stationary.Environment.SandBagWall_Line_12m gb 291367.63 74243.73 180.00 
+  Static24 Searchlight.90_cm_SearchLight_UK1 gb 291337.59 74276.96 90.00 
+  Static25 Stationary.Environment.SandBagWall_Line_12m gb 291347.56 74277.66 180.00 
+  Static26 Stationary.Environment.HeightFinder_UK1 gb 291337.28 74287.29 90.00 
+  Static27 Stationary.Environment.SandBagWall_Line_12m gb 291267.53 74311.80 180.00 
+  Static28 Artillery.3_inch_20_CWT_QF_Mk_I gb 291277.25 74307.71 85.00 /timeout 0/radius_hide 0
+  Static29 Stationary.Environment.SandBagWall_Line_12m gb 291273.63 74317.54 270.00 
+  Static30 Artillery.3_inch_20_CWT_QF_Mk_I gb 291357.69 74307.33 90.00 /timeout 0/radius_hide 0
+  Static31 Stationary.Environment.SandBagWall_Line_12m gb 291361.53 74317.44 270.00 
+  Static32 Stationary.Environment.SandBagWall_Line_12m gb 291367.53 74311.80 180.00 
+  Static33 Stationary.Environment.InnerMarker nn 290770.81 74108.67 90.00 
+  Static34 Stationary.Environment.FireShield_UK1 nn 290773.22 74108.77 270.00 
+  Static35 Stationary.Environment.Fire_pump_UK gb 290776.34 74107.17 0.00 
+  Static36 Stationary.Environment.SandBagWall_Line_4m nn 290776.22 74108.48 450.00 
+  Static37 Stationary.Environment.PKDP_UK1 gb 290773.94 74110.79 0.00 
+  Static38 Stationary.Environment.Board_w_map_UK-GER_1 nn 290776.81 74109.48 360.00 
+  Static39 Stationary.Environment.SandBagWall_Line_4m nn 290776.25 74112.78 450.00 
+  Static40 Stationary.Environment.Portable_Siren_UK1 gb 290778.56 74111.23 0.00 
+  Static41 Stationary.Environment.SandBagWall_Line_4m nn 290780.19 74110.60 539.10 
+  Static42 Stationary.Environment.SandBagWall_Arch nn 290770.34 74120.93 175.00 
+  Static43 Stationary.Austin_10_Tilly gb 290783.00 74110.72 90.00 
+  Static44 Stationary.Environment.Ladder_UK3 nn 290772.13 74121.22 270.00 /hstart -1
+  Static45 Stationary.Environment.SandBagWall_Line_4m nn 290776.75 74118.62 450.00 
+  Static46 Stationary.Trenches.Trench_Front nn 290773.78 74120.76 270.00 
+  Static47 Stationary.Environment.SandBagWall_Line_4m nn 290776.66 74122.72 450.00 
+  Static48 Stationary.Trenches.Trench_Front nn 290779.59 74120.75 90.00 
+  Static49 Stationary.Environment.Ladder_UK3 nn 290781.13 74120.18 450.00 /hstart -1
+  Static50 Stationary.Environment.SandBagWall_Arch nn 290782.91 74120.76 360.00 
+  Static51 Stationary.Environment.SandBagWall_Line_12m gb 291786.34 73686.30 180.00 
+  Static52 Stationary.Environment.SandBagWall_Line_12m gb 291792.13 73680.45 270.00 
+  Static53 Artillery.3_inch_20_CWT_QF_Mk_I gb 291796.19 73690.97 85.00 /timeout 0/radius_hide 0
+  Static54 Stationary.Environment.SandBagWall_Arch nn 291830.22 73690.50 175.00 
+  Static55 Stationary.Environment.Ladder_UK3 nn 291832.00 73690.79 270.00 /hstart -1
+  Static56 Stationary.Trenches.Trench_Front nn 291833.50 73690.29 270.00 
+  Static57 Artillery.Bofors gb 291815.38 73710.94 90.00 /timeout 0/radius_hide 0
+  Static58 Stationary.Environment.SandBagWall_Line_12m gb 291806.19 73720.42 180.00 
+  Static59 Stationary.Environment.Fire_pump_UK2 gb 291815.97 73720.28 90.00 
+  Static60 Stationary.Environment.SandBagWall_Line_4m nn 291836.66 73688.19 450.00 
+  Static61 Stationary.Environment.SandBagWall_Line_4m nn 291836.53 73692.29 450.00 
+  Static62 Stationary.Trenches.Trench_Front nn 291839.47 73690.32 90.00 
+  Static63 Stationary.Environment.Ladder_UK3 nn 291841.00 73689.75 450.00 /hstart -1
+  Static64 Stationary.Environment.SandBagWall_Arch nn 291842.78 73690.33 360.00 
+  Static65 Stationary.Environment.SandBagWall_Line_12m gb 291836.25 73700.42 270.00 
+  Static66 Artillery.SoundLocator_MkIIIV_UK1 gb 291836.34 73710.55 45.00 /timeout 0/radius_hide 0
+  Static67 Stationary.Environment.Portable_Siren_UK1 gb 291835.13 73720.97 180.00 
+  Static68 Stationary.Environment.SandBagWall_Line_12m gb 291880.38 73680.64 270.00 
+  Static69 Artillery.3_inch_20_CWT_QF_Mk_I gb 291876.28 73690.59 90.00 /timeout 0/radius_hide 0
+  Static70 Artillery.Bofors gb 291855.50 73710.94 90.00 /timeout 0/radius_hide 0
+  Static71 Stationary.Environment.SandBagWall_Line_12m gb 291886.19 73686.59 180.00 
+  Static72 Searchlight.90_cm_SearchLight_UK1 gb 291856.16 73719.80 90.00 
+  Static73 Stationary.Environment.SandBagWall_Line_12m gb 291866.13 73720.51 180.00 
+  Static74 Stationary.Environment.SandBagWall_Line_12m gb 291786.09 73754.65 180.00 
+  Static75 Stationary.Environment.Predictor gb 291816.31 73730.55 90.00 
+  Static76 Artillery.3_inch_20_CWT_QF_Mk_I gb 291795.81 73750.55 85.00 /timeout 0/radius_hide 0
+  Static77 Stationary.Environment.SandBagWall_Line_12m gb 291792.22 73760.39 270.00 
+  Static78 Artillery.Bofors gb 291836.25 73730.55 90.00 /timeout 0/radius_hide 0
+  Static79 Stationary.Environment.SandBagWall_Line_12m gb 291836.06 73740.39 270.00 
+  Static80 Stationary.Environment.HeightFinder_UK1 gb 291855.84 73730.14 90.00 
+  Static81 Artillery.3_inch_20_CWT_QF_Mk_I gb 291876.28 73750.18 90.00 /timeout 0/radius_hide 0
+  Static82 Stationary.Environment.SandBagWall_Line_12m gb 291886.09 73754.65 180.00 
+  Static83 Stationary.Environment.SandBagWall_Line_12m gb 291880.09 73760.29 270.00 
+  Static84 Stationary.Environment.SandBagWall_Line_12m gb 290188.38 73690.66 270.00 
+  Static85 Stationary.Environment.SandBagWall_Line_12m gb 290182.63 73696.52 180.00 
+  Static86 Artillery.3_inch_20_CWT_QF_Mk_I gb 290192.44 73701.18 85.00 /timeout 0/radius_hide 0
+  Static87 Stationary.Environment.SandBagWall_Arch nn 290225.69 73700.80 175.00 
+  Static88 Stationary.Environment.Ladder_UK3 nn 290227.47 73701.09 270.00 /hstart -1
+  Static89 Stationary.Trenches.Trench_Front nn 290228.97 73700.59 270.00 
+  Static90 Stationary.Environment.SandBagWall_Line_4m nn 290232.13 73698.50 450.00 
+  Static91 Artillery.Bofors gb 290211.66 73721.15 90.00 /timeout 0/radius_hide 0
+  Static92 Stationary.Environment.SandBagWall_Line_4m nn 290232.00 73702.59 450.00 
+  Static93 Stationary.Environment.SandBagWall_Line_12m gb 290232.53 73710.63 270.00 
+  Static94 Artillery.SoundLocator_MkIIIV_UK1 gb 290232.63 73720.77 45.00 /timeout 0/radius_hide 0
+  Static95 Stationary.Trenches.Trench_Front nn 290234.94 73700.62 90.00 
+  Static96 Stationary.Environment.Ladder_UK3 nn 290236.47 73700.05 450.00 /hstart -1
+  Static97 Stationary.Environment.SandBagWall_Arch nn 290238.25 73700.65 360.00 
+  Static98 Stationary.Environment.SandBagWall_Line_12m gb 290276.63 73690.85 270.00 
+  Static99 Artillery.Bofors gb 290251.75 73721.15 90.00 /timeout 0/radius_hide 0
+  Static100 Artillery.3_inch_20_CWT_QF_Mk_I gb 290272.53 73700.79 90.00 /timeout 0/radius_hide 0
+  Static101 Stationary.Environment.SandBagWall_Line_12m gb 290282.47 73696.79 180.00 
+  Static102 Stationary.Environment.SandBagWall_Line_12m gb 290202.44 73730.63 180.00 
+  Static103 Stationary.Environment.Fire_pump_UK2 gb 290212.25 73730.48 90.00 
+  Static104 Stationary.Environment.SandBagWall_Line_12m gb 290182.38 73764.86 180.00 
+  Static105 Artillery.3_inch_20_CWT_QF_Mk_I gb 290192.06 73760.77 85.00 /timeout 0/radius_hide 0
+  Static106 Stationary.Environment.Predictor gb 290212.56 73740.77 90.00 
+  Static107 Stationary.Environment.SandBagWall_Line_12m gb 290188.47 73770.60 270.00 
+  Static108 Stationary.Environment.Portable_Siren_UK1 gb 290231.41 73731.17 180.00 
+  Static109 Artillery.Bofors gb 290232.53 73740.77 90.00 /timeout 0/radius_hide 0
+  Static110 Stationary.Environment.SandBagWall_Line_12m gb 290232.34 73750.60 270.00 
+  Static111 Searchlight.90_cm_SearchLight_UK1 gb 290252.41 73730.02 90.00 
+  Static112 Stationary.Environment.SandBagWall_Line_12m gb 290262.38 73730.72 180.00 
+  Static113 Stationary.Environment.HeightFinder_UK1 gb 290252.09 73740.35 90.00 
+  Static114 Artillery.3_inch_20_CWT_QF_Mk_I gb 290272.53 73760.39 90.00 /timeout 0/radius_hide 0
+  Static115 Stationary.Environment.SandBagWall_Line_12m gb 290276.38 73770.50 270.00 
+  Static116 Stationary.Environment.SandBagWall_Line_12m gb 290282.38 73764.86 180.00 
+  Static117 Stationary.Environment.SandBagWall_Line_8m nn 291707.84 73540.60 450.00 
+  Static118 Stationary.Bedford_OY_Cargo1 gb 291709.97 73542.36 190.00 
+  Static119 Stationary.Environment.Predictor gb 291708.44 73544.11 0.00 
+  Static120 Stationary.Environment.Towed_Bowser_UK1 gb 291708.47 73547.58 0.00 
+  Static121 Stationary.Environment.SandBagWall_Line_4m nn 291712.97 73543.44 350.00 
+  Static122 Stationary.Environment.CamoNetHowitizer nn 291707.78 73549.42 450.00 
+  Static123 Stationary.Airfield.Sign_Table_UK1 nn 291708.88 73551.83 90.00 
+  Static124 Stationary.Environment.CamoNetPlaneSmall nn 291572.56 73403.27 -90.00 
+  Static125 Stationary.Airfield.Planelifter_UK1 nn 291563.75 73435.66 180.00 
+  Static126 Stationary.SpitfireMkIa_100oct gb 291563.72 73440.53 180.00 
+  Static127 Stationary.Airfield.Planelifter_UK1 nn 291563.59 73445.01 180.00 
+  Static128 Stationary.Environment.CamoNetPlaneSmall nn 291571.00 73440.91 180.00 
+  Static129 Stationary.Environment.Ladder_UK1 nn 291561.94 73479.59 270.00 
+  Static130 Stationary.Environment.Oil_Cup_UK1_(machine_oil) gb 291561.91 73479.63 60.00 /hstart 1.75
+  Static131 Stationary.Airfield.Planelifter_UK3 nn 291563.16 73480.78 180.00 
+  Static132 Stationary.SpitfireMkIa_100oct gb 291563.72 73480.80 180.00 
+  Static133 Stationary.Environment.Ladder_UK3 nn 291568.47 73480.16 270.00 
+  Static134 Stationary.Environment.CamoNetPlaneSmall nn 291571.00 73480.44 180.00 
+  Static135 Stationary.Bedford_OY_CargoCrate16 gb 291573.88 73478.63 270.00 /hstart -0.5
+  Static136 Stationary.Oil_Cart_UK1_Transport gb 291560.69 73518.09 90.00 
+  Static137 Stationary.HurricaneMkI_100oct gb 291563.72 73520.30 180.00 
+  Static138 Stationary.Environment.FuelDrum_UK1_3 nn 291561.34 73523.38 60.00 
+  Static139 Stationary.Bedford_OY_tent gb 291557.81 73526.25 135.00 
+  Static140 Stationary.Environment.CamoNetPlaneSmall nn 291571.00 73520.30 180.00 
+  Static141 Stationary.Environment.SandBagWall_Arch nn 291606.44 73474.26 270.00 
+  Static142 Stationary.Environment.Ladder_UK3 nn 291605.84 73476.04 0.00 /hstart -1
+  Static143 Stationary.Trenches.Trench_Front nn 291606.41 73477.57 0.00 
+  Static144 Stationary.Environment.SandBagWall_Line_4m nn 291604.28 73480.39 0.00 
+  Static145 Stationary.Environment.SandBagWall_Line_4m nn 291608.38 73480.51 0.00 
+  Static146 Stationary.Trenches.Trench_Front nn 291606.38 73483.54 180.00 
+  Static147 Stationary.Environment.Ladder_UK3 nn 291606.88 73485.04 180.00 /hstart -1
+  Static148 Stationary.Environment.SandBagWall_Arch nn 291606.59 73486.82 85.00 
+  Static149 Stationary.Environment.SandBagWall_Line_4m nn 291702.63 73543.46 375.00 
+  Static150 Stationary.Environment.FuelDrum_UK1_3 nn 291704.78 73543.10 -30.00 
+  Static151 Stationary.Bedford_OY_CargoCrate16 gb 291705.13 73545.25 180.00 /hstart -0.5
+  Static152 Stationary.Environment.FireShield_UK1 nn 291706.59 73551.73 450.00 
+  Static153 Stationary.BoresightBoard_Spitfire_Mk_IA gb 291572.22 73375.08 90.00 
+  Static154 Stationary.Airfield.Planelifter_UK1 nn 291564.19 73393.58 0.00 
+  Static155 Stationary.SpitfireMkIa_100oct gb 291572.38 73394.98 -90.00 
+  Static156 Stationary.Airfield.Planelifter_UK3 nn 291580.19 73391.12 0.00 
+  Static157 Stationary.Airfield.Planelifter_UK2 nn 291580.44 73393.65 0.00 
+  Static158 Stationary.Bedford_OY_tent gb 291583.97 73393.95 45.00 
+  Static159 Stationary.SpitfireMkIa_100oct gb 290173.88 73147.03 -30.00 
+  Static160 Stationary.Environment.TentMedicSmall_UK1 gb 290194.34 73186.64 0.00 
+  Static161 Stationary.Bedford_OY_tent gb 290205.13 73177.48 0.00 
+  Static162 Stationary.Austin_10_Tilly gb 290203.97 73181.19 0.00 
+  Static163 Stationary.Morris_CS8-Bedford_MW_CargoAmmo1 gb 290199.34 73190.58 85.00 
+  Static164 Stationary.Environment.Bench_UK-GER_1 nn 290199.78 73195.33 0.00 
+  Static165 Stationary.Austin_K2_Ambulance gb 290204.13 73191.37 0.00 
+  Static166 Stationary.Environment.Chear_UK-GER_1 nn 290201.47 73197.38 385.00 
+  Static167 Stationary.Environment.Chear_UK-GER_1 nn 290201.28 73198.61 360.00 
+  Static168 Stationary.Bedford_OY_tent gb 290181.59 73217.83 -90.00 
+  Static169 Stationary.Environment.CamoNetCrates nn 290176.78 73225.37 360.00 
+  Static170 Stationary.Bedford_OY_CargoAmmo1 gb 290177.88 73226.05 180.00 /hstart -0.5
+  Static171 Stationary.Bedford_OY_CargoCrate16 gb 290182.72 73222.32 180.00 /hstart -0.5
+  Static172 Stationary.Environment.SandBagWall_Arch nn 290190.50 73219.68 175.00 
+  Static173 Stationary.Environment.TentBell_UK1 gb 290177.13 73234.15 0.00 
+  Static174 Stationary.Environment.Ladder_UK3 nn 290192.28 73219.97 270.00 /hstart -1
+  Static175 Stationary.Trenches.Trench_Front nn 290193.78 73219.47 270.00 
+  Static176 Stationary.Environment.SandBagWall_Line_4m nn 290196.94 73217.37 450.00 
+  Static177 Stationary.Environment.FireShield_UK1 nn 290185.28 73231.86 180.00 
+  Static178 Stationary.Environment.Board_w_map_UK-GER_1 nn 290185.78 73231.85 360.00 
+  Static179 Stationary.Environment.SandBagWall_Line_4m nn 290196.81 73221.47 450.00 
+  Static180 Stationary.Environment.Stool_UK-GER_1 nn 290189.13 73230.00 90.00 
+  Static181 Stationary.Environment.Chaise_longue_UK-GER_1 nn 290180.31 73239.27 30.00 
+  Static182 Stationary.Trenches.Trench_Front nn 290199.75 73219.50 90.00 
+  Static183 Stationary.Environment.Stool_UK-GER_1 nn 290188.72 73230.83 90.00 
+  Static184 Stationary.Environment.Ladder_UK3 nn 290201.28 73218.93 450.00 /hstart -1
+  Static185 Stationary.Environment.Stool_UK-GER_1 nn 290190.34 73229.89 90.00 
+  Static186 Stationary.Environment.Chaise_longue_UK-GER_1 nn 290180.44 73241.22 -30.00 
+  Static187 Stationary.Environment.FieldKitchen_UK1 gb 290188.94 73232.68 0.00 
+  Static188 Stationary.Environment.Stool_UK-GER_1 nn 290191.53 73230.15 90.00 
+  Static189 Stationary.Environment.Table_w_dinner_UK-GER_1 nn 290190.22 73230.83 450.00 
+  Static190 Stationary.Environment.Stool_UK-GER_1 nn 290191.56 73230.93 90.00 
+  Static191 Stationary.Environment.SandBagWall_Arch nn 290203.06 73219.52 360.00 
+  Static192 Stationary.Environment.Table_empty_UK-GER_1 nn 290187.25 73235.89 90.00 
+  Static193 Stationary.Environment.TentRidgeTent_UK1 gb 290179.47 73248.60 -180.00 
+  Static194 Stationary.Environment.TentRidgeTent_UK1 gb 290188.81 73238.70 90.00 
+  Static195 Stationary.Environment.Chear_UK-GER_1 nn 290187.19 73247.22 370.00 
+  Static196 Stationary.Environment.Chear_UK-GER_1 nn 290186.34 73249.39 0.00 
+  Static197 Stationary.Environment.Chear_UK-GER_1 nn 290186.78 73248.26 385.00 
+  Static198 Stationary.Environment.Chear_UK-GER_1 nn 290186.44 73251.14 0.00 
+  Static199 Stationary.Environment.Chear_UK-GER_1 nn 290186.59 73252.61 -15.00 
+  Static200 Stationary.Environment.Chear_UK-GER_1 nn 290191.63 73248.86 120.00 
+  Static201 Stationary.Environment.Chear_UK-GER_1 nn 290191.59 73250.58 255.00 
+  Static202 Stationary.Environment.Chear_UK-GER_1 nn 290192.47 73249.68 180.00 
+  Static203 Stationary.Environment.Table_w_chess_UK-GER_1 nn 290191.50 73249.79 90.00 
+  Static204 Stationary.Environment.TentRidgeTent_UK1 gb 290188.56 73259.22 90.00 
+  Static205 Stationary.Environment.TentRidgeTent_UK1 gb 290199.34 73248.14 0.00 
+  Static206 Stationary.SpitfireMkIa_100oct gb 290144.56 73087.95 -30.00 
+  Static207 Stationary.Bedford_OY_CargoCrate16 gb 290555.31 72826.15 180.00 /hstart -0.5
+  Static208 Stationary.SpitfireMkIa_100oct gb 290485.88 72862.59 85.00 
+  Static209 Stationary.Environment.CamoNetPlaneSmall nn 290517.59 72829.01 450.00 
+  Static210 Stationary.Airfield.Planelifter_UK1 nn 290512.94 72834.39 90.00 
+  Static211 Stationary.SpitfireMkIa_100oct gb 290517.03 72834.32 90.00 
+  Static212 Stationary.Airfield.Planelifter_UK1 nn 290520.69 72834.47 90.00 
+  Static213 Stationary.Environment.CamoNetPlaneSmall nn 290557.13 72829.01 450.00 
+  Static214 Stationary.Environment.Ladder_UK3 nn 290556.84 72831.54 180.00 
+  Static215 Stationary.SpitfireMkIa_100oct gb 290557.38 72836.65 90.00 
+  Static216 Stationary.Environment.Ladder_UK1 nn 290556.28 72838.08 180.00 
+  Static217 Stationary.Airfield.Planelifter_UK3 nn 290557.47 72836.87 90.00 
+  Static218 Stationary.Environment.Oil_Cup_UK1_(machine_oil) gb 290556.31 72838.12 -30.00 /hstart 1.75
+  Static219 Stationary.Environment.CamoNetPlaneSmall nn 290597.00 72829.01 450.00 
+  Static220 Stationary.SpitfireMkIa_100oct gb 290597.38 72836.37 90.00 
+  Static221 Stationary.Oil_Cart_UK1_Transport gb 290594.78 72839.33 0.00 
+  Static222 Stationary.Environment.FuelDrum_UK1_3 nn 290600.06 72838.68 -30.00 
+  Static223 Stationary.Bedford_OY_tent gb 290602.94 72842.22 45.00 
+  Static224 Stationary.Environment.SandBagWall_Line_12m gb 286894.47 83619.75 180.00 
+  Static225 Artillery.3_inch_20_CWT_QF_Mk_I gb 286904.19 83615.66 85.00 /timeout 0/radius_hide 0
+  Static226 Stationary.Environment.SandBagWall_Line_12m gb 286900.56 83625.49 270.00 
+  Static227 Stationary.Environment.SandBagWall_Line_12m gb 286914.53 83585.52 180.00 
+  Static228 Stationary.Environment.Fire_pump_UK2 gb 286924.34 83585.38 90.00 
+  Static229 Stationary.Environment.Predictor gb 286924.69 83595.66 90.00 
+  Static230 Stationary.Environment.Portable_Siren_UK1 gb 286943.50 83586.06 180.00 
+  Static231 Artillery.Bofors gb 286944.63 83595.66 90.00 /timeout 0/radius_hide 0
+  Static232 Searchlight.90_cm_SearchLight_UK1 gb 286964.50 83584.91 90.00 
+  Static233 Stationary.Environment.SandBagWall_Line_12m gb 286944.44 83605.49 270.00 
+  Static234 Stationary.Environment.HeightFinder_UK1 gb 286964.19 83595.24 90.00 
+  Static235 Stationary.Environment.SandBagWall_Line_12m gb 286974.50 83585.61 180.00 
+  Static236 Artillery.3_inch_20_CWT_QF_Mk_I gb 286984.63 83615.28 90.00 /timeout 0/radius_hide 0
+  Static237 Stationary.Environment.SandBagWall_Line_12m gb 286988.47 83625.39 270.00 
+  Static238 Stationary.Environment.SandBagWall_Line_12m gb 286994.47 83619.75 180.00 
+  Static239 Stationary.Environment.SandBagWall_Line_12m gb 286900.47 83545.55 270.00 
+  Static240 Stationary.Environment.SandBagWall_Line_12m gb 286894.72 83551.41 180.00 
+  Static241 Artillery.3_inch_20_CWT_QF_Mk_I gb 286904.53 83556.07 85.00 /timeout 0/radius_hide 0
+  Static242 Artillery.Bofors gb 286923.75 83576.05 90.00 /timeout 0/radius_hide 0
+  Static243 Stationary.Environment.SandBagWall_Line_12m gb 286944.63 83565.52 270.00 
+  Static244 Artillery.SoundLocator_MkIIIV_UK1 gb 286944.72 83575.66 45.00 /timeout 0/radius_hide 0
+  Static245 Artillery.Bofors gb 286963.88 83576.05 90.00 /timeout 0/radius_hide 0
+  Static246 Stationary.Environment.SandBagWall_Line_12m gb 286988.72 83545.74 270.00 
+  Static247 Artillery.3_inch_20_CWT_QF_Mk_I gb 286984.63 83555.70 90.00 /timeout 0/radius_hide 0
+  Static248 Stationary.Environment.SandBagWall_Line_12m gb 286994.56 83551.70 180.00 
+  Static249 Stationary.Environment.Windsock_Strong nn 286525.06 83516.02 45.00 
+  Static250 Stationary.Environment.Polotnische_X_white_1 nn 286524.97 83515.92 45.00 
+  Static251 Stationary.Environment.TentRidgeTent_UK1 gb 286785.53 83075.52 -180.00 
+  Static252 Stationary.Environment.Chear_UK-GER_1 nn 286793.25 83074.13 370.00 
+  Static253 Stationary.Environment.Chear_UK-GER_1 nn 286792.88 83075.17 385.00 
+  Static254 Stationary.Environment.Chear_UK-GER_1 nn 286792.44 83076.31 0.00 
+  Static255 Stationary.Environment.Chear_UK-GER_1 nn 286792.50 83078.05 0.00 
+  Static256 Stationary.Environment.Chear_UK-GER_1 nn 286792.69 83079.52 -15.00 
+  Static257 Stationary.Environment.Chear_UK-GER_1 nn 286797.72 83075.77 120.00 
+  Static258 Stationary.Environment.Table_w_chess_UK-GER_1 nn 286797.56 83076.71 90.00 
+  Static259 Stationary.Environment.Chear_UK-GER_1 nn 286798.53 83076.59 180.00 
+  Static260 Stationary.Environment.Chear_UK-GER_1 nn 286797.69 83077.50 255.00 
+  Static261 Stationary.Environment.TentRidgeTent_UK1 gb 286805.44 83075.05 0.00 
+  Static262 Stationary.Environment.TentRidgeTent_UK1 gb 286794.66 83086.13 90.00 
+  Static263 Stationary.Airfield.Planelifter_UK1 nn 287106.94 82902.27 90.00 
+  Static264 Stationary.HurricaneMkI_100oct gb 287105.53 82910.42 0.00 
+  Static265 Stationary.Airfield.Planelifter_UK2 nn 287106.88 82918.49 90.00 
+  Static266 Stationary.Airfield.Planelifter_UK3 nn 287109.41 82918.24 90.00 
+  Static267 Stationary.Bedford_OY_tent gb 287106.56 82922.03 135.00 
+  Static268 Stationary.BoresightBoard_Spitfire_Mk_IA gb 287125.44 82910.27 180.00 
+  Static269 Stationary.Airfield.Planelifter_UK1 nn 287099.84 82976.45 90.00 
+  Static270 Stationary.Bedford_OY_CargoCrate16 gb 287132.59 82965.95 180.00 /hstart -0.5
+  Static271 Stationary.Environment.CamoNetPlaneSmall nn 287134.41 82968.82 450.00 
+  Static272 Stationary.Environment.Ladder_UK3 nn 287134.13 82971.34 180.00 
+  Static273 Stationary.HurricaneMkI_100oct gb 287134.78 82976.11 450.00 
+  Static274 Stationary.Environment.Oil_Cup_UK1_(machine_oil) gb 287133.59 82977.92 -30.00 /hstart 1.75
+  Static275 Stationary.Airfield.Planelifter_UK3 nn 287134.75 82976.67 90.00 
+  Static276 Stationary.Environment.Ladder_UK1 nn 287133.56 82977.88 180.00 
+  Static277 Stationary.Environment.CamoNetPlaneSmall nn 287174.28 82968.82 450.00 
+  Static278 Stationary.HurricaneMkI_100oct gb 287174.28 82976.11 450.00 
+  Static279 Stationary.Oil_Cart_UK1_Transport gb 287172.06 82979.14 0.00 
+  Static280 Stationary.Environment.FuelDrum_UK1_3 nn 287177.34 82978.48 -30.00 
+  Static281 Stationary.Bedford_OY_tent gb 287180.22 82982.02 45.00 
+  Static282 Stationary.Environment.Polotnische_X_white_1 nn 287264.72 83036.23 45.00 
+  Static283 Stationary.Environment.Windsock_Strong nn 287264.81 83036.32 45.00 
+  Static284 Stationary.Environment.SandBagWall_Line_4m nn 287032.28 82922.46 375.00 
+  Static285 Stationary.Environment.FuelDrum_UK1_3 nn 287034.47 82922.10 -30.00 
+  Static286 Stationary.Bedford_OY_CargoCrate16 gb 287034.78 82924.25 180.00 /hstart -0.5
+  Static287 Stationary.Environment.SandBagWall_Line_8m nn 287037.50 82919.60 450.00 
+  Static288 Stationary.Bedford_OY_Cargo1 gb 287039.66 82921.36 190.00 
+  Static289 Stationary.Environment.Predictor gb 287038.13 82923.13 0.00 
+  Static290 Stationary.Environment.SandBagWall_Line_4m nn 287042.66 82922.45 350.00 
+  Static291 Stationary.Environment.Towed_Bowser_UK1 gb 287038.16 82926.59 0.00 
+  Static292 Stationary.Environment.CamoNetHowitizer nn 287037.47 82928.42 450.00 
+  Static293 Stationary.Environment.FireShield_UK1 nn 287036.25 82930.74 450.00 
+  Static294 Stationary.Airfield.Sign_Table_UK1 nn 287038.53 82930.84 90.00 
+  Static295 Stationary.Environment.CamoNetPlaneSmall nn 287097.25 82910.61 360.00 
+  Static296 Stationary.Environment.InnerMarker nn 286915.19 82991.27 90.00 
+  Static297 Stationary.Environment.FireShield_UK1 nn 286917.59 82991.38 270.00 
+  Static298 Stationary.Environment.Fire_pump_UK gb 286920.72 82989.77 0.00 
+  Static299 Stationary.Environment.SandBagWall_Line_4m nn 286920.59 82991.09 450.00 
+  Static300 Stationary.Environment.PKDP_UK1 gb 286918.31 82993.39 0.00 
+  Static301 Stationary.Environment.Board_w_map_UK-GER_1 nn 286921.19 82992.09 360.00 
+  Static302 Stationary.Environment.SandBagWall_Line_4m nn 286920.63 82995.38 450.00 
+  Static303 Stationary.Environment.Portable_Siren_UK1 gb 286922.94 82993.84 0.00 
+  Static304 Stationary.Environment.SandBagWall_Line_4m nn 286924.56 82993.20 539.10 
+  Static305 Stationary.Austin_10_Tilly gb 286927.38 82993.32 90.00 
+  Static306 Stationary.BlenheimMkIV gb 286974.94 82976.31 60.00 
+  Static307 Stationary.Bedford_OY_CargoCrate16 gb 286975.94 82977.05 180.00 /hstart -0.5
+  Static308 Stationary.Oil_Cart_UK1_Transport gb 286981.44 82982.02 0.00 
+  Static309 Stationary.BlenheimMkIV gb 287014.22 82956.45 60.00 
+  Static310 Stationary.Environment.CamoNetPlaneSmall nn 287094.88 82968.82 450.00 
+  Static311 Stationary.Airfield.Planelifter_UK1 nn 287089.00 82976.42 90.00 
+  Static312 Stationary.HurricaneMkI_100oct gb 287094.50 82976.11 450.00 
+  Static313 Stationary.DH82A gb 286894.53 83016.50 0.00 
+  Static314 Stationary.HurricaneMkI_100oct gb 286914.59 83046.31 450.00 
+  Static315 Stationary.HurricaneMkI_100oct gb 286954.88 83045.93 450.00 
+  Static316 Stationary.HurricaneMkI_100oct gb 286994.75 83046.31 450.00 
+  Static317 Stationary.HurricaneMkI_100oct gb 287034.66 83045.93 450.00 
+  Static318 Stationary.Environment.SandBagWall_Line_12m gb 286740.66 82828.45 270.00 
+  Static319 Stationary.Environment.SandBagWall_Line_12m gb 286734.91 82834.31 180.00 
+  Static320 Artillery.3_inch_20_CWT_QF_Mk_I gb 286744.72 82838.98 85.00 /timeout 0/radius_hide 0
+  Static321 Artillery.Bofors gb 286763.94 82858.95 90.00 /timeout 0/radius_hide 0
+  Static322 Stationary.Environment.SandBagWall_Line_12m gb 286754.72 82868.42 180.00 
+  Static323 Stationary.Environment.Fire_pump_UK2 gb 286764.53 82868.27 90.00 
+  Static324 Stationary.Environment.Predictor gb 286764.84 82878.56 90.00 
+  Static325 Stationary.Environment.SandBagWall_Line_12m gb 286784.81 82848.42 270.00 
+  Static326 Artillery.SoundLocator_MkIIIV_UK1 gb 286784.91 82858.56 45.00 /timeout 0/radius_hide 0
+  Static327 Stationary.Environment.Portable_Siren_UK1 gb 286783.69 82868.96 180.00 
+  Static328 Stationary.Environment.SandBagWall_Line_12m gb 286828.91 82828.63 270.00 
+  Static329 Artillery.3_inch_20_CWT_QF_Mk_I gb 286824.81 82838.59 90.00 /timeout 0/radius_hide 0
+  Static330 Artillery.Bofors gb 286784.81 82878.56 90.00 /timeout 0/radius_hide 0
+  Static331 Artillery.Bofors gb 286804.06 82858.95 90.00 /timeout 0/radius_hide 0
+  Static332 Stationary.Environment.SandBagWall_Line_12m gb 286834.75 82834.59 180.00 
+  Static333 Searchlight.90_cm_SearchLight_UK1 gb 286804.69 82867.81 90.00 
+  Static334 Stationary.Environment.HeightFinder_UK1 gb 286804.38 82878.13 90.00 
+  Static335 Stationary.Environment.SandBagWall_Line_12m gb 286814.69 82868.52 180.00 
+  Static336 Stationary.Environment.SandBagWall_Line_12m gb 286734.66 82902.66 180.00 
+  Static337 Artillery.3_inch_20_CWT_QF_Mk_I gb 286744.34 82898.56 85.00 /timeout 0/radius_hide 0
+  Static338 Stationary.Environment.SandBagWall_Line_12m gb 286740.75 82908.38 270.00 
+  Static339 Stationary.Environment.SandBagWall_Line_12m gb 286784.63 82888.38 270.00 
+  Static340 Artillery.3_inch_20_CWT_QF_Mk_I gb 286824.81 82898.18 90.00 /timeout 0/radius_hide 0
+  Static341 Stationary.Environment.SandBagWall_Line_12m gb 286834.66 82902.66 180.00 
+  Static342 Stationary.Environment.SandBagWall_Line_12m gb 286828.66 82908.30 270.00 
+  Static343 Stationary.Bedford_OY_tent gb 286810.78 83000.88 0.00 
+  Static344 Stationary.Austin_10_Tilly gb 286810.03 83008.10 0.00 
+  Static345 Stationary.Environment.TentMedicSmall_UK1 gb 286800.44 83013.56 0.00 
+  Static346 Stationary.Morris_CS8-Bedford_MW_CargoAmmo1 gb 286805.44 83017.50 85.00 
+  Static347 Stationary.Environment.Bench_UK-GER_1 nn 286805.84 83022.24 0.00 
+  Static348 Stationary.Austin_K2_Ambulance gb 286810.22 83018.28 0.00 
+  Static349 Stationary.Bedford_OY_tent gb 286787.69 83044.74 -90.00 
+  Static350 Stationary.Environment.Chear_UK-GER_1 nn 286807.53 83024.30 385.00 
+  Static351 Stationary.Environment.Chear_UK-GER_1 nn 286807.34 83025.52 360.00 
+  Static352 Stationary.Environment.CamoNetCrates nn 286782.88 83052.28 360.00 
+  Static353 Stationary.Bedford_OY_CargoCrate16 gb 286788.78 83049.23 180.00 /hstart -0.5
+  Static354 Stationary.Bedford_OY_CargoAmmo1 gb 286783.97 83052.98 180.00 /hstart -0.5
+  Static355 Stationary.Environment.SandBagWall_Arch nn 286796.56 83046.59 175.00 
+  Static356 Stationary.Environment.TentBell_UK1 gb 286783.22 83061.07 0.00 
+  Static357 Stationary.Environment.Ladder_UK3 nn 286798.34 83046.88 270.00 /hstart -1
+  Static358 Stationary.Trenches.Trench_Front nn 286799.88 83046.39 270.00 
+  Static359 Stationary.Environment.SandBagWall_Line_4m nn 286803.00 83044.28 450.00 
+  Static360 Stationary.Environment.FireShield_UK1 nn 286791.38 83058.77 180.00 
+  Static361 Stationary.Environment.Board_w_map_UK-GER_1 nn 286791.84 83058.77 360.00 
+  Static362 Stationary.Environment.Chaise_longue_UK-GER_1 nn 286786.41 83066.18 30.00 
+  Static363 Stationary.Trenches.Trench_Front nn 286805.81 83046.41 90.00 
+  Static364 Stationary.Environment.SandBagWall_Line_4m nn 286802.91 83048.38 450.00 
+  Static365 Stationary.Environment.Stool_UK-GER_1 nn 286795.22 83056.91 90.00 
+  Static366 Stationary.Environment.Stool_UK-GER_1 nn 286794.78 83057.75 90.00 
+  Static367 Stationary.Environment.Stool_UK-GER_1 nn 286796.44 83056.80 90.00 
+  Static368 Stationary.Environment.Ladder_UK3 nn 286807.38 83045.84 450.00 /hstart -1
+  Static369 Stationary.Environment.Chaise_longue_UK-GER_1 nn 286786.50 83068.13 -30.00 
+  Static370 Stationary.Environment.Table_w_dinner_UK-GER_1 nn 286796.28 83057.74 450.00 
+  Static371 Stationary.Environment.Stool_UK-GER_1 nn 286797.63 83057.07 90.00 
+  Static372 Stationary.Environment.FieldKitchen_UK1 gb 286795.00 83059.59 0.00 
+  Static373 Stationary.Environment.Stool_UK-GER_1 nn 286797.66 83057.84 90.00 
+  Static374 Stationary.Environment.SandBagWall_Arch nn 286809.16 83046.43 360.00 
+  Static375 Stationary.Environment.Table_empty_UK-GER_1 nn 286793.31 83062.81 90.00 
+  Static376 Stationary.Environment.TentRidgeTent_UK1 gb 286794.91 83065.61 90.00 
+  Static377 Artillery.20_mm_Flak_38 gb 290671.09 74147.09 0.00 /timeout 0/radius_hide 0
+  Static378 Artillery.20_mm_Flak_38 gb 290718.88 74204.43 0.00 /timeout 0/radius_hide 0
+  Static379 Artillery.20_mm_Flak_38 gb 291578.91 72990.80 0.00 /timeout 0/radius_hide 0
+  Static380 Artillery.20_mm_Flak_38 gb 291645.81 73019.47 0.00 /timeout 0/radius_hide 0
+[Buildings]
+[BuildingsLinks]
+[Trigger]
+  GrandV TGroundDestroyed 80 291094 73578 900

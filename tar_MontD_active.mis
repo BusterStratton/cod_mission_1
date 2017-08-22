@@ -1,0 +1,38 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 150000 100000 100000 150000 1000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static0 Artillery.Bofors_StandAlone gb 334726.69 73311.18 0.00 /timeout 0/radius_hide 0
+  Static1 Artillery.Bofors_StandAlone gb 334744.97 73317.27 0.00 /timeout 0/radius_hide 0
+  Static2 Artillery.Bofors_StandAlone gb 335400.50 72128.21 0.00 /timeout 0/radius_hide 0
+  Static3 Artillery.Bofors_StandAlone gb 335430.97 72143.45 0.00 /timeout 0/radius_hide 0
+  Static4 Artillery.Bofors_StandAlone gb 334818.16 72750.19 0.00 /timeout 0/radius_hide 0
+  Static5 Artillery.Bofors_StandAlone gb 334830.34 72719.70 0.00 /timeout 0/radius_hide 0
+  Static6 Artillery.Bofors_StandAlone gb 335851.72 73186.17 0.00 /timeout 0/radius_hide 0
+  Static7 Artillery.Bofors_StandAlone gb 335870.03 73164.84 0.00 /timeout 0/radius_hide 0
+  Static8 Artillery.3_7_inch_QF_Mk_I gb 335997.16 72242.62 0.00 /timeout 0/radius_hide 0
+  Static9 Artillery.3_7_inch_QF_Mk_I gb 335862.44 72188.73 0.00 /timeout 0/radius_hide 0
+  Static10 Artillery.3_7_inch_QF_Mk_I gb 335929.81 72296.51 0.00 /timeout 0/radius_hide 0
+  Static11 Artillery.3_7_inch_QF_Mk_I gb 336078.00 72309.98 0.00 /timeout 0/radius_hide 0
+  Static12 Artillery.3_7_inch_QF_Mk_I gb 335202.25 73684.24 0.00 /timeout 0/radius_hide 0
+  Static13 Artillery.3_7_inch_QF_Mk_I gb 335067.53 73643.83 0.00 /timeout 0/radius_hide 0
+  Static14 Artillery.3_7_inch_QF_Mk_I gb 334946.28 73562.98 0.00 /timeout 0/radius_hide 0
+  Static15 Artillery.3_7_inch_QF_Mk_I gb 335310.03 73643.83 0.00 /timeout 0/radius_hide 0
+[Buildings]
+[BuildingsLinks]

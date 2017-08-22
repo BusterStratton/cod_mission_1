@@ -1,0 +1,80 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 150000 100000 100000 150000 1000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static53 Stationary.Airfield.AirfieldSign_Black_White_Black_1 nn 229346.66 95673.01 105.00 
+  Static54 Artillery.3_7_inch_QF_Mk_I gb 229027.69 95767.22 0.00 /timeout 0/radius_hide 0
+  Static5 Stationary.Bofors_ENG_Transport gb 228763.59 95843.62 180.00 
+  Static30 Stationary.Weapons_.Destructing_Bomb nn 229176.47 95838.78 0.00 
+  Static31 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229175.53 95842.94 75.00 
+  Static32 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229175.53 95846.65 0.00 
+  Static34 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229175.53 95850.59 0.00 
+  Static36 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229175.53 95853.83 0.00 
+  Static33 Stationary.Environment.CamoNetPlaneBig nn 229181.97 95851.28 15.00 
+  Static35 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229186.19 95842.71 0.00 
+  Static37 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229185.95 95846.88 0.00 
+  Static38 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229185.72 95850.59 0.00 
+  Static39 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 229185.95 95854.05 0.00 
+  Static48 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228991.88 95962.80 0.00 
+  Static45 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228991.72 95962.19 0.00 
+  Static47 Stationary.Environment.CamoNetCrates nn 228991.27 95963.70 0.00 
+  Static46 Stationary.Weapons_.Destructing_Bomb nn 228991.94 95963.61 0.00 
+  Static50 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228991.53 95964.77 0.00 
+  Static49 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228991.66 95964.27 0.00 
+  Static44 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228991.42 95965.55 0.00 
+  Static40 Stationary.Bofors_ENG_Transport gb 229394.97 95977.93 180.00 
+  Static20 Stationary.DamagedCar.Unic_P107_DMG nn 228799.95 96173.23 0.00 
+  Static51 Stationary.Airfield.BombLoadingCart_UK1_Transport gb 228814.94 96129.06 0.00 
+  Static52 Stationary.HurricaneMkI gb 228878.11 96131.26 15.00 
+  Static41 Stationary.HurricaneMkI gb 229038.13 96130.61 0.00 
+  Static42 Stationary.Environment.CamoNetPlaneBig nn 229033.36 96142.05 0.00 
+  Static43 Stationary.HurricaneMkI gb 229038.59 96152.83 0.00 
+  Static21 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228833.59 96231.24 0.00 
+  Static22 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228833.63 96232.10 0.00 
+  Static23 Stationary.Environment.CamoNetCrates nn 228833.73 96233.18 0.00 
+  Static24 Stationary.Weapons_.Destructing_Bomb nn 228834.91 96233.22 0.00 
+  Static25 Stationary.Weapons_.Destructing_Bomb nn 228833.64 96234.27 0.00 
+  Static26 Stationary.Weapons_.Bomb_B_GP_250lb_MkIV gb 228833.69 96234.93 0.00 
+  Static19 Stationary.Bofors_ENG_Transport gb 229465.86 96214.63 180.00 
+  Static18 Artillery.3_7_inch_QF_Mk_I gb 229734.38 96214.24 0.00 /timeout 0/radius_hide 0
+  Static0 Artillery.3_7_inch_QF_Mk_I gb 228720.00 96286.16 0.00 /timeout 0/radius_hide 0
+  Static27 Stationary.Trenches.Trench_direct_25m gb 228788.48 96292.25 180.00 
+  Static28 Stationary.Environment.TentStaffBig_GER1 gb 228808.59 96291.23 105.00 
+  Static29 Stationary.Trenches.Trench_direct_25m gb 228786.44 96371.91 180.00 
+  Static14 Stationary.HurricaneMkI gb 228905.19 96435.19 0.00 
+  Static15 Artillery.3_7_inch_QF_Mk_I gb 228779.97 96485.21 0.00 /timeout 0/radius_hide 0
+  Static8 Stationary.DefiantMkI gb 229022.88 96475.33 15.00 
+  Static7 Stationary.Airfield.blister_hangar gb 229022.55 96475.81 195.00 
+  Static10 Stationary.DefiantMkI gb 229013.63 96511.32 15.00 
+  Static9 Stationary.Airfield.blister_hangar gb 229013.02 96511.35 195.00 
+  Static11 Stationary.Vickers_Mk_VIB gb 229006.36 96541.79 180.00 
+  Static12 Stationary.Airfield.blister_hangar gb 228999.58 96567.37 195.00 
+  Static13 Stationary.DefiantMkI gb 229000.36 96567.34 15.00 
+  Static17 Stationary.Trenches.Trench_direct_25m gb 228798.58 96610.77 180.00 
+  Static16 Stationary.Airfield.Radio_NDB_Beacon nn 228819.16 96583.06 0.00 /radioFreq 300
+  Static3 Stationary.Airfield.blister_hangar gb 228985.19 96614.43 195.00 
+  Static4 Stationary.DefiantMkI gb 228987.36 96613.58 15.00 
+  Static1 Stationary.Bofors_ENG_Transport gb 229131.22 96741.83 180.00 
+  Static6 Stationary.Airfield.Fuel_Storage nn 228840.91 96880.91 105.00 
+  Static2 Artillery.3_7_inch_QF_Mk_I gb 228894.38 96945.86 0.00 /timeout 0/radius_hide 0
+[Buildings]
+  0_bld buildings.House$EnglandDispersalHut 1 228821.11 96371.80 0.00
+[BuildingsLinks]
+[Trigger]
+  Dieppe TGroundDestroyed 80 229049 96253 450

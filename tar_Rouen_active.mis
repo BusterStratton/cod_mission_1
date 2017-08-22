@@ -1,0 +1,33 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 150000 100000 100000 150000 1000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static0 Stationary.Airfield.blister_hangar nn 236678.97 41135.11 220.00 
+  Static1 Stationary.Airfield.blister_hangar nn 236758.63 41188.21 220.00 
+  Static2 Stationary.Airfield.blister_hangar nn 236854.22 41246.62 220.00 
+  Static3 Artillery.Bofors_StandAlone gb 236689.59 40928.00 220.00 /timeout 0/radius_hide 0
+  Static4 Artillery.Bofors_StandAlone gb 236540.91 40938.62 220.00 /timeout 0/radius_hide 0
+  Static5 Artillery.Bofors_StandAlone gb 236004.55 41990.08 220.00 /timeout 0/radius_hide 0
+  Static6 Artillery.Bofors_StandAlone gb 236068.28 42000.70 220.00 /timeout 0/radius_hide 0
+  Static7 Artillery.Bofors_StandAlone gb 237125.05 41963.53 220.00 /timeout 0/radius_hide 0
+  Static8 Artillery.Bofors_StandAlone gb 237156.89 41926.36 220.00 /timeout 0/radius_hide 0
+  Static9 Artillery.Bofors_StandAlone gb 235850.55 41034.21 220.00 /timeout 0/radius_hide 0
+  Static10 Artillery.Bofors_StandAlone gb 235850.55 41055.45 220.00 /timeout 0/radius_hide 0
+[Buildings]
+[BuildingsLinks]

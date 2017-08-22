@@ -1,0 +1,26 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 150000 100000 100000 150000 1000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static0 Smoke.Environment.BuildingFireBig nn 162699.47 50123.95 220.00 /height 1.00
+  Static1 Smoke.Environment.BuildingFireBig nn 162424.19 50127.72 220.00 /height 1.00
+  Static2 Smoke.Environment.BuildingFireBig nn 162246.94 50048.53 220.00 /height 1.00
+  Static3 Smoke.Environment.BuildingFireBig nn 162390.23 50199.37 220.00 /height 1.00
+[Buildings]
+[BuildingsLinks]

@@ -1,0 +1,60 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static13 Stationary.Bofors_ENG_Transport gb 293052.25 88414.54 50.00 
+  Static16 Stationary.Bedford_OY_open gb 292864.38 88457.45 50.00 
+  Static30 Stationary.Hangars.Camouflaged_Hangar_single.English gb 292652.94 88571.80 50.00 /dead 1
+  Static7 Stationary.HurricaneMkI gb 292649.81 88575.61 50.00 
+  Static6 Stationary.GladiatorMkII gb 292660.81 88566.20 50.00 
+  Static12 Stationary.Breen_Carrier_Mk_I gb 292709.91 88532.79 50.00 
+  Static20 Stationary.Environment.CamoNetCrates nn 292594.81 88615.88 50.00 
+  Static19 Stationary.Environment.JerryCan_UK1_4-Gallon_5 nn 292594.25 88616.52 50.00 
+  Static18 Stationary.Environment.FuelDrum_UK1_3 nn 292595.19 88615.80 50.00 
+  Static24 Artillery.3_7_inch_QF_Mk_I gb 293217.03 88589.20 775.00 /timeout 0/radius_hide 0
+  Static5 Stationary.Morris_CS8 gb 292440.78 88682.31 50.00 
+  Static31 Stationary.Hangars.Camouflaged_Hangar_single.English gb 292515.13 88672.30 50.00 /dead 1
+  Static9 Stationary.HurricaneMkI gb 292509.91 88678.13 50.00 
+  Static8 Stationary.HurricaneMkI gb 292520.88 88668.48 50.00 
+  Static3 Stationary.Environment.JerryCan_UK1_4-Gallon_5 nn 292394.16 88757.11 50.00 
+  Static1 Stationary.Environment.CamoNetCrates nn 292395.00 88756.52 50.00 
+  Static0 Stationary.Environment.FuelDrum_UK1_3 nn 292396.19 88756.35 50.00 
+  Static4 Stationary.Environment.PKDP_UK1 gb 292453.34 88710.71 -40.00 
+  Static32 Stationary.Hangars.Camouflaged_Hangar_single.English gb 292337.31 88815.52 50.00 /dead 1
+  Static11 Stationary.HurricaneMkI gb 292333.19 88822.20 50.00 
+  Static10 Stationary.HurricaneMkI gb 292344.84 88812.27 50.00 
+  Static23 Stationary.Bedford_OY_CargoAmmo1 gb 292223.50 88887.24 50.00 
+  Static22 Stationary.Bedford_OY_open gb 292227.63 88891.50 -40.00 
+  Static21 Artillery.3_7_inch_QF_Mk_I gb 292697.94 88871.66 775.00 /timeout 0/radius_hide 0
+  Static2 Stationary.AnsonMkI gb 292226.28 88898.78 50.00 
+  Static15 Stationary.Bofors_ENG_Transport gb 292198.75 89023.91 50.00 
+  Static14 Stationary.Bofors_ENG_Transport gb 292865.34 88992.43 50.00 
+  Static17 Stationary.Bedford_OY_open gb 292816.72 89024.87 50.00 
+  Static25 Artillery.Bofors_StandAlone gb 292606.94 88526.49 180.00 /timeout 0/radius_hide 0
+  Static26 Artillery.Bofors_StandAlone gb 292267.19 89061.63 180.00 /timeout 0/radius_hide 0
+  Static27 Artillery.Bofors_StandAlone gb 293099.75 88800.03 180.00 /timeout 0/radius_hide 0
+[Buildings]
+  0_bld buildings.House$EnglandDispersalHut 1 292296.71 88842.82 775.00
+[BuildingsLinks]
+[Trigger]
+  trigger_4 TGroundDestroyed 100 292396 88754 2
+  trigger_3 TGroundDestroyed 100 292592 88612 2
+  trigger_2 TGroundDestroyed 100 292653 88571 2
+  trigger_1 TGroundDestroyed 100 292519 88675 2
+  trigger TGroundDestroyed 100 292337 88813 2

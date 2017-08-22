@@ -1,0 +1,68 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 150000 100000 100000 150000 1000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static0 Artillery.3_7_inch_QF_Mk_I gb 225997.20 48191.96 220.00 /timeout 0/radius_hide 0
+  Static1 Artillery.3_7_inch_QF_Mk_I gb 226075.44 48192.02 220.00 /timeout 0/radius_hide 0
+  Static2 Artillery.3_7_inch_QF_Mk_I gb 226141.66 48183.70 220.00 /timeout 0/radius_hide 0
+  Static4 Artillery.3_7_inch_QF_Mk_I gb 226211.48 48183.77 220.00 /timeout 0/radius_hide 0
+  Static5 Artillery.3_7_inch_QF_Mk_I gb 226257.22 48179.60 220.00 /timeout 0/radius_hide 0
+  Static6 Artillery.3_7_inch_QF_Mk_I gb 226319.69 48183.84 220.00 /timeout 0/radius_hide 0
+  Static7 Artillery.3_7_inch_QF_Mk_I gb 225606.05 47693.89 220.00 /timeout 0/radius_hide 0
+  Static8 Artillery.3_7_inch_QF_Mk_I gb 225653.84 47730.36 220.00 /timeout 0/radius_hide 0
+  Static9 Artillery.3_7_inch_QF_Mk_I gb 225704.05 47741.11 220.00 /timeout 0/radius_hide 0
+  Static11 Artillery.3_7_inch_QF_Mk_I gb 225740.83 47769.99 220.00 /timeout 0/radius_hide 0
+  Static12 Artillery.3_7_inch_QF_Mk_I gb 225782.91 47791.02 220.00 /timeout 0/radius_hide 0
+  Static13 Artillery.3_7_inch_QF_Mk_I gb 225837.39 47811.98 220.00 /timeout 0/radius_hide 0
+  Static14 Artillery.3_7_inch_QF_Mk_I gb 226511.61 48094.75 220.00 /timeout 0/radius_hide 0
+  Static15 Artillery.3_7_inch_QF_Mk_I gb 226469.02 48030.89 220.00 /timeout 0/radius_hide 0
+  Static18 Artillery.3_7_inch_QF_Mk_I gb 226443.39 47975.46 220.00 /timeout 0/radius_hide 0
+  Static19 Artillery.3_7_inch_QF_Mk_I gb 226417.80 47915.79 220.00 /timeout 0/radius_hide 0
+  Static38 Artillery.3_7_inch_QF_Mk_I gb 226383.75 47877.49 220.00 /timeout 0/radius_hide 0
+  Static39 Artillery.3_7_inch_QF_Mk_I gb 226341.11 47809.29 220.00 /timeout 0/radius_hide 0
+  Static40 Artillery.Bofors_StandAlone gb 226564.61 48241.40 220.00 /timeout 0/radius_hide 0
+  Static41 Artillery.Bofors_StandAlone gb 226552.48 48233.79 220.00 /timeout 0/radius_hide 0
+  Static42 Artillery.Bofors_StandAlone gb 225795.88 47202.18 220.00 /timeout 0/radius_hide 0
+  Static43 Artillery.Bofors_StandAlone gb 225781.25 47183.89 220.00 /timeout 0/radius_hide 0
+  Static44 Artillery.Bofors_StandAlone gb 225487.91 46907.57 220.00 /timeout 0/radius_hide 0
+  Static45 Artillery.Bofors_StandAlone gb 225465.91 46880.08 220.00 /timeout 0/radius_hide 0
+  Static46 Artillery.Bofors_StandAlone gb 225136.42 47265.29 220.00 /timeout 0/radius_hide 0
+  Static47 Artillery.Bofors_StandAlone gb 225189.39 47280.57 220.00 /timeout 0/radius_hide 0
+  Static48 Artillery.Bofors_StandAlone gb 225234.91 47318.59 220.00 /timeout 0/radius_hide 0
+  Static49 Artillery.Bofors_StandAlone gb 225287.97 47379.46 220.00 /timeout 0/radius_hide 0
+  Static50 Artillery.Bofors_StandAlone gb 227105.80 46037.19 220.00 /timeout 0/radius_hide 0
+[Buildings]
+  0_bld buildings.House$Oil_Bunker-Big 1 226307.33 46788.65 220.00
+  1_bld buildings.House$Oil_Bunker-Big 1 226193.24 46775.69 220.00
+  2_bld buildings.House$Oil_Bunker-Big 1 226158.38 47018.38 220.00
+  3_bld buildings.House$Oil_Bunker-Big 1 226461.95 46381.82 220.00
+  4_bld buildings.House$Oil_Bunker-Big 1 226428.81 46357.94 220.00
+  5_bld buildings.House$Oil_Bunker-Big 1 226480.34 46357.92 220.00
+  6_bld buildings.House$Oil_Bunker-Big 1 226452.73 46321.14 220.00
+  7_bld buildings.House$Oil_Bunker-Big 1 226402.91 45768.85 220.00
+  8_bld buildings.House$Oil_Bunker-Big 1 226426.74 45728.59 220.00
+  9_bld buildings.House$Oil_Bunker-Big 1 226454.18 45627.99 220.00
+  10_bld buildings.House$Oil_Bunker-Big 1 226362.57 45560.19 220.00
+  11_bld buildings.House$Oil_Bunker-Big 1 226400.12 47817.07 220.00
+  12_bld buildings.House$Oil_Bunker-Big 1 226425.87 47784.23 220.00
+  13_bld buildings.House$Oil_Bunker-Big 1 226457.21 47681.71 220.00
+  14_bld buildings.House$Oil_Bunker-Big 1 226363.59 47613.79 220.00
+  15_bld buildings.House$Oil_Bunker-Big 1 226132.71 47450.71 220.00
+  16_bld buildings.House$Oil_Bunker-Big 1 226422.37 47567.98 220.00
+[BuildingsLinks]

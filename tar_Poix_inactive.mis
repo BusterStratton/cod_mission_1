@@ -1,0 +1,87 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static0 Smoke.Environment.Smoke2 nn 292448.31 88739.80 180.00 /height 171.00
+  Static1 Smoke.Environment.Smoke2 nn 293027.75 88604.16 180.00 /height 171.00
+  Static2 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292739.72 88932.38 180.00 
+  Static3 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292744.72 88932.38 180.00 
+  Static4 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292768.19 88900.56 180.00 
+  Static5 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292769.84 88885.49 180.00 
+  Static6 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292768.19 88880.47 180.00 
+  Static7 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292764.81 88853.67 180.00 
+  Static8 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292776.56 88848.65 180.00 
+  Static9 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292801.66 88840.27 180.00 
+  Static10 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292808.38 88831.91 180.00 
+  Static11 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292813.38 88816.83 180.00 
+  Static12 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292828.47 88803.44 180.00 
+  Static13 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292788.28 88903.91 180.00 
+  Static14 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292600.72 88862.05 180.00 
+  Static15 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292662.69 88818.51 180.00 
+  Static16 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292736.34 88791.71 180.00 
+  Static17 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292734.69 88729.75 180.00 
+  Static18 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292759.81 88713.01 180.00 
+  Static19 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292771.53 88699.61 180.00 
+  Static20 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292791.63 88681.19 180.00 
+  Static21 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292806.69 88654.40 180.00 
+  Static22 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292855.25 88635.98 180.00 
+  Static23 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292865.31 88624.25 180.00 
+  Static24 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292875.34 88612.53 180.00 
+  Static25 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292302.63 89006.06 180.00 
+  Static26 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292351.19 88942.43 180.00 
+  Static27 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292386.38 88895.54 180.00 
+  Static28 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292429.91 88892.19 180.00 
+  Static29 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292461.72 88924.01 180.00 
+  Static30 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292468.44 88918.98 180.00 
+  Static31 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292421.53 88882.14 180.00 
+  Static32 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292403.13 88867.07 180.00 
+  Static33 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292406.47 88848.65 180.00 
+  Static34 Stationary.Environment.BombCrater_LooseSoil_largekg nn 293009.31 88572.34 180.00 
+  Static35 Stationary.Environment.BombCrater_LooseSoil_largekg nn 293024.38 88584.06 180.00 
+  Static36 Stationary.Environment.BombCrater_LooseSoil_largekg nn 293094.72 88610.86 180.00 
+  Static37 Stationary.Environment.BombCrater_LooseSoil_largekg nn 293016.03 88674.49 180.00 
+  Static38 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292930.63 88659.42 180.00 
+  Static39 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292928.94 88669.47 180.00 
+  Static40 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292985.88 88706.30 180.00 
+  Static41 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292982.53 88423.30 180.00 
+  Static42 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292940.66 88445.07 180.00 
+  Static43 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292920.56 88465.16 180.00 
+  Static44 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292928.94 88507.03 180.00 
+  Static45 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292927.25 88508.70 180.00 
+  Static46 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292882.06 88548.90 180.00 
+  Static47 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292545.47 88639.33 180.00 
+  Static48 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292666.03 88686.21 180.00 
+  Static49 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292635.88 88707.98 180.00 
+  Static50 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292590.66 88718.03 180.00 
+  Static51 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292540.44 88751.52 180.00 
+  Static52 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292560.53 88810.13 180.00 
+  Static53 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292552.16 88880.47 180.00 
+  Static54 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292530.38 88945.77 180.00 
+  Static55 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292538.75 88972.57 180.00 
+  Static56 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292532.06 89014.44 180.00 
+  Static57 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292517.00 89047.93 180.00 
+  Static58 Stationary.Environment.BombCrater_LooseSoil_largekg nn 292510.28 89069.70 180.00 
+[Buildings]
+[BuildingsLinks]
+[Trigger]
+  trigger_4 TGroundDestroyed 100 292396 88754 2
+  trigger_3 TGroundDestroyed 100 292592 88612 2
+  trigger_2 TGroundDestroyed 100 292653 88571 2
+  trigger_1 TGroundDestroyed 100 292519 88675 2
+  trigger TGroundDestroyed 100 292337 88813 2
