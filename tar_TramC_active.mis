@@ -1,0 +1,44 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static16 Artillery.Flak37 de 306381.28 159805.17 310.00 /timeout 0/radius_hide 0
+  Static15 Artillery.Flak37 de 306355.47 159815.50 310.00 /timeout 0/radius_hide 0
+  Static18 Artillery.Flak37 de 306252.22 159872.30 310.00 /timeout 0/radius_hide 0
+  Static17 Artillery.Flak37 de 306283.19 159872.30 310.00 /timeout 0/radius_hide 0
+  Static4 Artillery.20_mm_Flak_38 de 306266.22 160113.31 310.00 /timeout 0/radius_hide 0
+  Static2 Artillery.20_mm_Flak_38 de 306181.06 160210.41 310.00 /timeout 0/radius_hide 0
+  Static30 Stationary.Hangars.Camouflaged_Hangar_single.English de 306683.97 160423.56 310.00 
+  Static31 Stationary.Hangars.Camouflaged_Hangar_single.English de 306768.97 160426.92 310.00 
+  Static3 Stationary.Hangars.Camouflaged_Hangar_single.English de 306855.09 160425.80 310.00 
+  Static33 Stationary.Hangars.Camouflaged_Hangar_single.English de 306934.50 160414.63 310.00 
+  Static6 Artillery.20_mm_Flak_38 de 305990.31 160459.06 310.00 /timeout 0/radius_hide 0
+  Static5 Artillery.20_mm_Flak_38 de 306024.38 160544.22 310.00 /timeout 0/radius_hide 0
+  Static8 Artillery.20_mm_Flak_38 de 307122.94 161371.98 310.00 /timeout 0/radius_hide 0
+  Static7 Artillery.20_mm_Flak_38 de 307143.38 161346.44 310.00 /timeout 0/radius_hide 0
+  Static13 Artillery.Flak37 de 305906.28 161426.33 310.00 /timeout 0/radius_hide 0
+  Static14 Artillery.Flak37 de 305911.47 161462.47 310.00 /timeout 0/radius_hide 0
+  Static12 Artillery.Flak37 de 306949.22 161578.06 310.00 /timeout 0/radius_hide 0
+  Static11 Artillery.Flak37 de 306971.34 161572.95 310.00 /timeout 0/radius_hide 0
+  Static10 Artillery.Flak37 de 306984.97 161562.73 310.00 /timeout 0/radius_hide 0
+  Static9 Artillery.Flak37 de 307000.31 161555.92 310.00 /timeout 0/radius_hide 0
+[Buildings]
+[BuildingsLinks]
+[Trigger]
+  TramC TGroundDestroyed 80 306550 160648 950

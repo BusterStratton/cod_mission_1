@@ -1,0 +1,83 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static13 Stationary.Environment.CamoNetPlaneMid gb 69558.34 195149.94 499.100 /dead 1 
+  Static12 Stationary.Hangars.Camouflaged_Hangar_single.English gb 69049.59 194848.39 -60.00 /dead 1 
+  Static10 Stationary.Environment.TentTroopLarge_GER1 gb 69788.41 195049.72 0.00 /dead 1 
+  Static3 Stationary.Opel_Blitz_fuel gb 69758.61 195239.86 90.00 /dead 1 
+  Static9 Artillery.3_7_inch_QF_Mk_I gb 69707.10 195378.61 0.00 /timeout 0/radius_hide 0
+  Static8 Artillery.Bofors gb 69603.40 195545.58 0.00 /timeout 0/radius_hide 0
+  Static7 Artillery.20_mm_Flak_38 gb 69813.02 195578.63 0.00 /timeout 0/radius_hide 0
+  Static14 Stationary.Hangars.Camouflaged_Hangar_single.English gb 69013.65 194910.25 -60.00 /dead 1 
+  Static15 Stationary.Hangars.Camouflaged_Hangar_single.English gb 68973.61 194980.69 -60.00 /dead 1 
+  Static16 Stationary.Hangars.Camouflaged_Hangar_single.English gb 68938.77 195041.97 -60.00 /dead 1 
+  Static17 Stationary.Hangars.Camouflaged_Hangar_single.English gb 68903.20 195103.28 -60.00 /dead 1 
+  Static19 Stationary.Environment.CamoNetPlaneMid gb 69582.63 195223.92 534.100 /dead 1 
+  Static20 Stationary.Environment.CamoNetPlaneMid gb 69534.84 195255.97 549.100 /dead 1 
+  Static21 Stationary.Environment.CamoNetPlaneMid gb 69573.94 195301.05 559.100 /dead 1 
+  Static22 Stationary.Environment.CamoNetPlaneMid gb 69522.34 195335.27 574.100 /dead 1 
+  Static11 Stationary.Environment.TentTroopLarge_GER1 gb 69773.74 195049.89 0.00 /dead 1 
+  Static23 Stationary.Environment.TentTroopLarge_GER1 gb 69759.75 195049.89 0.00 /dead 1 
+  Static24 Stationary.Environment.TentTroopLarge_GER1 gb 69759.67 195036.70 0.00 /dead 1 
+  Static25 Stationary.Environment.TentTroopLarge_GER1 gb 69774.20 195036.88 0.00 /dead 1 
+  Static26 Stationary.Environment.TentTroopLarge_GER1 gb 69788.72 195037.39 0.00 /dead 1 
+  Static27 Stationary.Environment.TentTroopLarge_GER1 gb 69760.20 195024.97 0.00 /dead 1 
+  Static28 Stationary.Environment.TentTroopLarge_GER1 gb 69774.37 195024.80 0.00 /dead 1 
+  Static29 Stationary.Environment.TentTroopLarge_GER1 gb 69789.24 195025.14 0.00 /dead 1 
+  Static30 Stationary.Environment.TentTroopLarge_GER1 gb 68749.09 194781.00 50.00 /dead 1 
+  Static31 Stationary.Environment.TentTroopLarge_GER1 gb 68773.65 194784.52 50.00 /dead 1 
+  Static32 Stationary.Environment.TentTroopLarge_GER1 gb 68769.29 194747.30 50.00 /dead 1 
+  Static33 Stationary.Environment.TentTroopLarge_GER1 gb 68779.31 194765.83 50.00 /dead 1 
+  Static34 Stationary.Environment.TentTroopLarge_GER1 gb 68795.34 194742.50 50.00 /dead 1 
+  Static35 Stationary.Environment.TentTroopLarge_GER1 gb 68808.93 194732.78 50.00 /dead 1 
+  Static36 Stationary.Environment.TentTroopLarge_GER1 gb 68821.95 194752.23 50.00 /dead 1 
+  Static37 Stationary.Environment.TentTroopLarge_GER1 gb 68831.87 194725.95 50.00 /dead 1 
+  Static38 Stationary.Environment.TentTroopLarge_GER1 gb 68802.46 194767.56 50.00 /dead 1 
+  Static39 Stationary.Environment.Portable_Siren_UK1 gb 69589.34 195157.77 0.00 /dead 1 
+  Static18 Stationary.Environment.CamoNetPlaneMid gb 69610.33 195172.33 519.100 /dead 1 
+  Static5 Stationary.Airfield.Fuel_Storage gb 69748.05 195240.14 714.100 /dead 1 
+  Static40 Stationary.Airfield.Fuel_Storage gb 69749.27 195267.78 714.100 /dead 1 
+  Static41 Stationary.Airfield.Fuel_Storage gb 69750.08 195294.61 714.100 /dead 1 
+  Static42 Stationary.Opel_Blitz_fuel gb 69761.40 195295.22 90.00 /dead 1 
+  Static43 Stationary.Opel_Blitz_fuel gb 69760.35 195267.92 90.00 /dead 1 
+  Static44 Stationary.Opel_Blitz_fuel gb 69754.53 195498.17 95.00 /dead 1 
+  Static45 Stationary.Opel_Blitz_fuel gb 69743.15 195771.53 270.00 /dead 1 
+  Static46 Stationary.Opel_Blitz_fuel gb 69316.22 195869.27 504.100 /dead 1 
+  Static47 Stationary.Opel_Blitz_fuel gb 69066.67 196006.31 715.00 /dead 1 
+  Static48 Stationary.Opel_Blitz_fuel gb 68605.87 195971.14 685.00 /dead 1 
+  Static49 Stationary.Opel_Blitz_fuel gb 69054.80 194895.03 685.00 /dead 1 
+  Static50 Stationary.Opel_Blitz_fuel gb 69541.40 195155.36 935.00 /dead 1 
+  Static51 Stationary.Opel_Blitz_fuel gb 69610.73 194905.92 885.00 /dead 1 
+  Static62 Artillery.3_7_inch_QF_Mk_I gb 69960.80 195657.86 0.00 /timeout 0/radius_hide 0
+  Static63 Artillery.3_7_inch_QF_Mk_I gb 69595.88 195760.77 0.00 /timeout 0/radius_hide 0
+  Static64 Artillery.3_7_inch_QF_Mk_I gb 69771.38 196014.47 0.00 /timeout 0/radius_hide 0
+  Static65 Artillery.3_7_inch_QF_Mk_I gb 69439.45 195985.86 0.00 /timeout 0/radius_hide 0
+  Static66 Artillery.3_7_inch_QF_Mk_I gb 69323.09 196258.64 0.00 /timeout 0/radius_hide 0
+  Static67 Artillery.3_7_inch_QF_Mk_I gb 69046.48 196249.11 0.00 /timeout 0/radius_hide 0
+  Static68 Artillery.Bofors gb 69758.86 195110.33 0.00 /timeout 0/radius_hide 0
+  Static69 Artillery.Bofors gb 69641.70 195008.28 0.00 /timeout 0/radius_hide 0
+  Static70 Artillery.Bofors gb 68200.88 195672.28 0.00 /timeout 0/radius_hide 0
+  Static71 Artillery.20_mm_Flak_38 gb 69853.04 195319.97 0.00 /timeout 0/radius_hide 0
+  Static72 Artillery.20_mm_Flak_38 gb 69824.29 194991.73 0.00 /timeout 0/radius_hide 0
+  Static73 Artillery.20_mm_Flak_38 gb 69138.04 194713.84 0.00 /timeout 0/radius_hide 0
+  Static74 Artillery.20_mm_Flak_38 gb 68165.14 195571.33 0.00 /timeout 0/radius_hide 0
+  Static75 Artillery.20_mm_Flak_38 gb 68411.17 195955.33 0.00 /timeout 0/radius_hide 0
+[Buildings]
+[BuildingsLinks]

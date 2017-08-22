@@ -1,0 +1,42 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static13 Stationary.Environment.CamoNetPlaneMid de 315140.66 130274.75 760.00 /dead 1
+  Static0 Stationary.Environment.CamoNetPlaneMid de 314241.00 130360.51 760.00 /dead 1
+  Static1 Stationary.Environment.CamoNetPlaneMid de 314356.59 130335.05 760.00 /dead 1
+  Static12 Stationary.Environment.CamoNetPlaneMid de 315186.38 130330.38 760.00 /dead 1
+  Static11 Stationary.Environment.CamoNetPlaneMid de 315201.47 130386.41 760.00 /dead 1
+  Static20 Stationary.SdKfz_263_8Rad de 314295.66 130635.95 850.00 
+  Static2 Stationary.Environment.CamoNetPlaneMid de 314311.63 130944.45 760.00 
+  Static3 Stationary.Environment.CamoNetPlaneMid de 314358.91 131024.10 760.00 /dead 1
+  Static10 Stationary.Environment.CamoNetPlaneMid de 315360.47 131061.89 895.00 /dead 1
+  Static4 Stationary.Environment.CamoNetPlaneMid de 314408.47 131090.83 760.00 /dead 1
+  Static9 Stationary.Environment.CamoNetPlaneMid de 315421.31 131118.67 850.00 
+  Static8 Stationary.Environment.CamoNetPlaneMid de 315434.88 131161.75 850.00 
+  Static5 Stationary.Environment.CamoNetPlaneMid de 314610.09 131324.94 760.00 
+  Static6 Stationary.Environment.CamoNetPlaneMid de 314653.13 131355.08 760.00 /dead 1
+  Static7 Stationary.Environment.CamoNetPlaneMid de 314698.25 131387.30 760.00 /dead 1
+  Static28 Artillery.Bofors_StandAlone de 315179.97 131552.84 850.00 /timeout 0/radius_hide 0
+  Static32 Artillery.Bofors_StandAlone de 315383.31 131562.48 850.00 /timeout 0/radius_hide 0
+  Static14 Smoke.Environment.BuildingFireSmall nn 314680.00 131169.53 760.00 /height 122.00
+  Static15 Smoke.Environment.BuildingFireSmall nn 314874.84 131317.13 760.00 /height 122.00
+  Static16 Smoke.Environment.BuildingFireSmall nn 315108.03 130664.75 760.00 /height 122.00
+[Buildings]
+[BuildingsLinks]

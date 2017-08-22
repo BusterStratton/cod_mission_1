@@ -1,0 +1,39 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+[Buildings]
+  0_bld buildings.House$Oil_Bunker-Big 1 350615.40 142020.36 150.00
+  1_bld buildings.House$Oil_Bunker-Big 1 350655.74 142041.64 150.00
+  2_bld buildings.House$Oil_Bunker-Big 1 350581.41 142094.22 150.00
+  3_bld buildings.House$Oil_Bunker-Big 1 350559.40 142136.53 150.00
+  4_bld buildings.House$Oil_Bunker-Big 1 350536.50 142178.84 150.00
+  5_bld buildings.House$Oil_Bunker-Big 1 350514.25 142217.55 150.00
+  6_bld buildings.House$Oil_Bunker-Small 1 350509.25 142188.86 150.00
+  7_bld buildings.House$Oil_Bunker-Small 1 350531.24 142149.05 150.00
+  8_bld buildings.House$Oil_Bunker-Small 1 350554.71 142109.11 150.00
+  9_bld buildings.House$Oil_Bunker-Small 1 350570.69 142068.05 150.00
+  10_bld buildings.House$Oil_Bunker-Small 1 350589.74 142030.09 150.00
+  11_bld buildings.House$Oil_Bunker-Small 1 350625.67 142048.73 150.00
+  12_bld buildings.House$Oil_Bunker-Middle 1 350615.46 142070.70 150.00
+  13_bld buildings.House$Oil_Bunker-Middle 1 350595.68 142059.29 150.00
+  14_bld buildings.House$Oil_Bunker-Middle 1 350574.04 142046.18 150.00
+[BuildingsLinks]
+[Trigger]
+  ArrasFuel TGroundDestroyed 96 350582 142075 300

@@ -1,0 +1,32 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[NPC]
+  0_Chief Vehicle.Austin_K2_ATV de /posx 267134.22/posy 167405.16 
+[Stationary]
+  Static1 Smoke.Environment.BigSitySmoke_0 nn 267078.25 167320.95 760.00 /height 1.00
+  Static0 Smoke.Environment.BigSitySmoke_0 nn 267194.84 167359.20 760.00 /height 1.00
+[Buildings]
+  0_bld buildings.House$Dmg 1 267179.81 167362.11 760.00
+  1_bld buildings.House$Dmg 1 267144.23 167337.60 760.00
+  2_bld buildings.House$Dmg 1 267070.97 167330.22 760.00
+  3_bld buildings.House$Dmg 1 267147.40 167302.28 760.00
+  4_bld buildings.House$Dmg 1 267075.18 167281.46 760.00
+  5_bld buildings.House$Dmg 1 267030.91 167300.70 760.00
+[BuildingsLinks]

@@ -1,0 +1,108 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static29 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350955.22 144593.09 760.00 
+  Static28 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350928.41 144634.36 760.00 
+  Static27 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350885.09 144650.86 760.00 
+  Static26 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350852.09 144694.17 760.00 
+  Static2 Smoke.Environment.BigSitySmoke_0 nn 351276.31 144764.30 760.00 /height 98.00
+  Static3 Smoke.Environment.BuildingFireBig nn 350860.63 144789.94 760.00 /height 98.00
+  Static1 Smoke.Environment.BigSitySmoke_0 nn 350856.31 144808.67 760.00 /height 98.00
+  Static24 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350841.78 144883.94 760.00 
+  Static25 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350876.84 144842.69 760.00 
+  Static23 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350847.97 144910.75 760.00 
+  Static21 Stationary.Environment.BombCrater_concrete_largekg nn 351743.19 144916.94 760.00 
+  Static30 Stationary.Environment.BombCrater_LooseSoil_largekg nn 352296.00 144931.39 760.00 
+  Static22 Stationary.Environment.BombCrater_LooseSoil_largekg nn 350755.16 144968.52 760.00 
+  Static19 Stationary.Environment.BombCrater_concrete_largekg nn 351693.69 144987.08 760.00 
+  Static20 Stationary.Environment.BombCrater_concrete_largekg nn 351710.19 144978.83 760.00 
+  Static18 Stationary.Environment.BombCrater_concrete_largekg nn 351681.31 145015.95 760.00 
+  Static31 Stationary.Environment.BombCrater_LooseSoil_largekg nn 352273.31 145020.08 760.00 
+  Static16 Stationary.Environment.BombCrater_concrete_largekg nn 351402.84 145129.41 760.00 
+  Static17 Stationary.Environment.BombCrater_concrete_largekg nn 351442.03 145125.28 760.00 
+  Static32 Stationary.Environment.BombCrater_LooseSoil_largekg nn 352281.56 145090.22 760.00 
+  Static33 Stationary.Environment.BombCrater_LooseSoil_largekg nn 352269.19 145131.47 760.00 
+  Static15 Stationary.Environment.BombCrater_concrete_largekg nn 351365.72 145191.28 760.00 
+  Static14 Stationary.Environment.BombCrater_concrete_largekg nn 351365.72 145197.47 760.00 
+  Static13 Stationary.Environment.BombCrater_concrete_largekg nn 351293.53 145244.92 760.00 
+  Static12 Stationary.Environment.BombCrater_concrete_largekg nn 351291.47 145251.11 760.00 
+  Static11 Stationary.Environment.BombCrater_concrete_largekg nn 351291.47 145261.42 760.00 
+  Static10 Stationary.Environment.BombCrater_concrete_largekg nn 350994.44 145385.19 760.00 
+  Static34 Stationary.Environment.BombCrater_LooseSoil_largekg nn 352116.53 145364.55 760.00 
+  Static7 Stationary.Environment.BombCrater_concrete_largekg nn 350893.34 145465.63 760.00 
+  Static9 Stationary.Environment.BombCrater_concrete_largekg nn 350973.78 145409.94 760.00 
+  Static8 Stationary.Environment.BombCrater_concrete_largekg nn 350973.78 145416.13 760.00 
+  Static35 Stationary.Environment.BombCrater_LooseSoil_largekg nn 352091.78 145438.81 760.00 
+  Static4 Smoke.Environment.BuildingFireBig nn 352143.06 145414.09 760.00 /height 98.00
+  Static6 Stationary.Environment.BombCrater_concrete_largekg nn 350872.72 145486.25 760.00 
+  Static5 Stationary.Environment.BombCrater_concrete_largekg nn 350858.28 145500.69 760.00 
+  Static36 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351316.22 145709.03 760.00 
+  Static37 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351225.44 145795.66 760.00 
+  Static0 Smoke.Environment.BigSitySmoke_0 de 351243.72 145887.22 760.00 /height 98.00
+  Static38 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351211.00 145937.98 760.00 
+  Static39 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351161.50 146016.38 760.00 
+  Static40 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351175.94 146024.63 760.00 
+  Static41 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351175.94 146072.06 760.00 
+  Static42 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351175.94 146080.31 760.00 
+  Static43 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351159.44 146131.89 760.00 
+  Static44 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351157.38 146138.08 760.00 
+  Static45 Stationary.Environment.BombCrater_LooseSoil_largekg nn 351149.13 146148.39 760.00 
+  Static46 Stationary.Hangars.Double_Tonneau nn 350868.63 144795.27 430.00 /dead 1
+  Static1 Stationary.Hangars.Double_Tonneau nn 351258.38 145885.47 430.00 /dead 1
+  Static46 Stationary.Hangars.Double_Tonneau nn 352153.69 145406.94 430.00 /dead 1
+  Static1 Stationary.Hangars.Double_Tonneau nn 350654.44 144847.38 430.00 /dead 1
+  Static46 Stationary.Hangars.Double_Tonneau nn 350529.00 144905.25 430.00 /dead 1
+[Buildings]
+  0_bld buildings.House$BombCrater_100_kg 1 351025.36 144518.84 760.00
+  1_bld buildings.House$BombCrater_100_kg 1 350982.05 144562.16 760.00
+  2_bld buildings.House$BombCrater_100_kg 1 350924.29 144619.91 760.00
+  3_bld buildings.House$BombCrater_100_kg 1 350883.04 144646.73 760.00
+  4_bld buildings.House$BombCrater_100_kg 1 350835.59 144683.86 760.00
+  5_bld buildings.House$BombCrater_100_kg 1 351460.60 145125.28 760.00
+  6_bld buildings.House$BombCrater_100_kg 1 351351.27 145203.66 760.00
+  7_bld buildings.House$BombCrater_100_kg 1 351281.14 145265.54 760.00
+  8_bld buildings.House$BombCrater_100_kg 1 350996.49 145356.30 760.00
+  9_bld buildings.House$BombCrater_100_kg 1 350895.41 145442.94 760.00
+  10_bld buildings.House$BombCrater_100_kg 1 350833.53 145519.26 760.00
+  11_bld buildings.House$BombCrater_100_kg 1 350821.16 145541.95 760.00
+  12_bld buildings.House$BombCrater_100_kg 1 350810.84 145554.32 760.00
+  13_bld buildings.House$BombCrater_100_kg 1 350757.21 145595.58 760.00
+  14_bld buildings.House$BombCrater_100_kg 1 350699.45 145643.02 760.00
+  15_bld buildings.House$BombCrater_100_kg 1 351899.96 144753.99 760.00
+  16_bld buildings.House$BombCrater_100_kg 1 351850.45 144834.44 760.00
+  17_bld buildings.House$BombCrater_100_kg 1 351745.25 144904.57 760.00
+  18_bld buildings.House$BombCrater_100_kg 1 351697.81 144976.76 760.00
+  19_bld buildings.House$BombCrater_100_kg 1 351699.87 145020.08 760.00
+  20_bld buildings.House$BombCrater_100_kg 1 351681.31 145069.59 760.00
+  21_bld buildings.House$BombCrater_100_kg 1 351660.68 145123.22 760.00
+  22_bld buildings.House$BombCrater_100_kg 1 351627.68 145199.54 760.00
+  23_bld buildings.House$BombCrater_100_kg 1 352322.85 144902.50 760.00
+  24_bld buildings.House$BombCrater_100_kg 1 352300.12 144970.57 760.00
+  25_bld buildings.House$BombCrater_100_kg 1 352283.62 145042.77 760.00
+  26_bld buildings.House$BombCrater_100_kg 1 352277.43 145090.21 760.00
+  27_bld buildings.House$BombCrater_100_kg 1 352254.74 145108.78 760.00
+  28_bld buildings.House$BombCrater_100_kg 1 352188.74 145211.91 760.00
+  29_bld buildings.House$BombCrater_100_kg 1 352211.43 145350.11 760.00
+  30_bld buildings.House$BombCrater_100_kg 1 351281.14 145698.71 760.00
+  31_bld buildings.House$BombCrater_100_kg 1 351301.77 145793.60 760.00
+  32_bld buildings.House$BombCrater_100_kg 1 351285.27 145849.29 760.00
+  33_bld buildings.House$BombCrater_100_kg 1 351194.51 145871.98 760.00
+  34_bld buildings.House$BombCrater_100_kg 1 351233.70 145954.49 760.00
+[BuildingsLinks]

@@ -1,0 +1,59 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static31 Artillery.Bofors_StandAlone de 314527.91 130124.08 850.00 /timeout 0/radius_hide 0
+  Static23 Artillery.Flak37 de 314427.25 130219.97 850.00 /timeout 0/radius_hide 0
+  Static22 Artillery.Flak37 de 314465.59 130191.20 850.00 /timeout 0/radius_hide 0
+  Static13 Stationary.Environment.CamoNetPlaneMid de 315140.66 130274.75 760.00 
+  Static0 Stationary.Environment.CamoNetPlaneMid de 314241.00 130360.51 760.00 
+  Static58 Stationary.Bf-109E-1 de 314243.41 130359.93 40.00 
+  Static60 Stationary.Bf-109E-1 de 314356.41 130334.50 90.00 
+  Static1 Stationary.Environment.CamoNetPlaneMid de 314356.59 130335.05 760.00 
+  Static12 Stationary.Environment.CamoNetPlaneMid de 315186.38 130330.38 760.00 
+  Static11 Stationary.Environment.CamoNetPlaneMid de 315201.47 130386.41 760.00 
+  Static24 Artillery.Flak37 de 314259.41 130785.66 850.00 /timeout 0/radius_hide 0
+  Static19 Stationary.Bf-109E-1 de 315146.72 130792.43 145.00 
+  Static30 Artillery.Bofors_StandAlone de 315227.91 130771.34 850.00 /timeout 0/radius_hide 0
+  Static25 Artillery.Flak37 de 314245.00 130833.59 850.00 /timeout 0/radius_hide 0
+  Static14 Stationary.Bf-109E-1 de 314311.69 130943.58 40.00 
+  Static17 Stationary.Bf-109E-1 de 315201.88 130900.70 145.00 
+  Static2 Stationary.Environment.CamoNetPlaneMid de 314311.63 130944.45 760.00 
+  Static18 Stationary.Bf-109E-1 de 315218.22 130955.36 145.00 
+  Static15 Stationary.Bf-109E-1 de 314358.66 131024.85 40.00 
+  Static3 Stationary.Environment.CamoNetPlaneMid de 314358.91 131024.10 760.00 
+  Static10 Stationary.Environment.CamoNetPlaneMid de 315360.47 131061.89 895.00 
+  Static4 Stationary.Environment.CamoNetPlaneMid de 314408.47 131090.83 760.00 
+  Static16 Stationary.Bf-109E-1 de 314408.91 131090.95 40.00 
+  Static9 Stationary.Environment.CamoNetPlaneMid de 315421.31 131118.67 850.00 
+  Static29 Artillery.Bofors_StandAlone de 314494.34 131188.47 850.00 /timeout 0/radius_hide 0
+  Static8 Stationary.Environment.CamoNetPlaneMid de 315434.88 131161.75 850.00 
+  Static5 Stationary.Environment.CamoNetPlaneMid de 314610.09 131324.94 760.00 
+  Static20 Stationary.SdKfz_263_8Rad de 315389.09 131280.03 850.00 
+  Static6 Stationary.Environment.CamoNetPlaneMid de 314653.13 131355.08 760.00 
+  Static7 Stationary.Environment.CamoNetPlaneMid de 314698.25 131387.30 760.00 
+  Static21 Stationary.SdKfz_263_8Rad de 315383.13 131359.17 850.00 
+  Static26 Artillery.Flak37 de 315021.66 131514.42 850.00 /timeout 0/radius_hide 0
+  Static27 Artillery.Bofors_StandAlone de 315064.91 131514.48 850.00 /timeout 0/radius_hide 0
+  Static28 Artillery.Bofors_StandAlone de 315179.97 131552.84 850.00 /timeout 0/radius_hide 0
+  Static32 Artillery.Bofors_StandAlone de 315383.31 131562.48 850.00 /timeout 0/radius_hide 0
+[Buildings]
+[BuildingsLinks]
+[Trigger]
+  Barly TGroundDestroyed 80 315165 130915 600

@@ -1,0 +1,60 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Chiefs]
+  0_Chief Train.BR56-00_c2 de 
+  1_Chief Vehicle.Opel_Blitz_radio_transport de /num_units 5
+[0_Chief_Road]
+  S 491 10 0.40 5.00 P 354579.97 121009.85  0 2 11.11
+  S 491 12 0.28 5.00 P 354663.97 121056.72
+[1_Chief_Road]
+  354582.91 121040.02 38.40  0 2 6.11
+  354575.03 121031.02 38.40
+[Stationary]
+  Static0 Stationary.Kubelwagen de 354562.47 121015.60 150.00 
+  Static1 Stationary.Kubelwagen de 354604.50 121062.26 225.00 
+  Static2 Stationary.Kubelwagen de 354610.75 121070.34 225.00 
+  Static3 Stationary.Kubelwagen de 354618.56 121078.75 225.00 
+  Static7 Stationary.Kubelwagen de 354655.94 121073.09 225.00 
+  Static8 Stationary.Kubelwagen de 354668.88 121081.09 225.00 
+  Static4 Stationary.Kubelwagen de 354633.38 121092.33 225.00 
+  Static5 Stationary.Kubelwagen de 354640.78 121098.98 225.00 
+  Static6 Stationary.Kubelwagen de 354650.50 121106.86 225.00 
+  Static9 Artillery.Flak37 de 354446.34 120929.26 0.00 /timeout 0/radius_hide 0
+  Static10 Artillery.Flak37 de 354417.50 120925.49 0.00 /timeout 0/radius_hide 0
+  Static11 Artillery.Flak37 de 354389.91 120924.23 0.00 /timeout 0/radius_hide 0
+  Static12 Artillery.Flak37 de 354369.84 120919.22 0.00 /timeout 0/radius_hide 0
+  Static13 Artillery.Flak37 de 354442.59 120895.39 0.00 /timeout 0/radius_hide 0
+  Static14 Artillery.Flak37 de 354445.09 120876.58 0.00 /timeout 0/radius_hide 0
+  Static15 Artillery.Flak37 de 354453.88 120852.74 0.00 /timeout 0/radius_hide 0
+  Static16 Artillery.Flak37 de 354423.78 120836.44 0.00 /timeout 0/radius_hide 0
+  Static17 Artillery.Flak37 de 354398.69 120833.93 0.00 /timeout 0/radius_hide 0
+  Static18 Artillery.Flak37 de 354864.03 121459.80 0.00 /timeout 0/radius_hide 0
+  Static19 Artillery.Flak37 de 354891.63 121468.58 0.00 /timeout 0/radius_hide 0
+  Static20 Artillery.Flak37 de 354929.25 121481.13 0.00 /timeout 0/radius_hide 0
+  Static21 Artillery.Flak37 de 354689.47 120362.26 0.00 /timeout 0/radius_hide 0
+  Static22 Artillery.Flak37 de 354700.75 120338.47 0.00 /timeout 0/radius_hide 0
+  Static23 Artillery.Flak37 de 354713.25 120302.16 0.00 /timeout 0/radius_hide 0
+  Static24 Artillery.Flak37 de 354725.75 120264.73 0.00 /timeout 0/radius_hide 0
+  Static25 Artillery.Flak37 de 354768.25 120271.14 0.00 /timeout 0/radius_hide 0
+  Static26 Artillery.Flak37 de 354801.94 120286.30 0.00 /timeout 0/radius_hide 0
+[Buildings]
+[BuildingsLinks]
+[Trigger]
+  BapaumeRaill TGroundDestroyed 96 354591 121021 100

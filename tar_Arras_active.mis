@@ -1,0 +1,65 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+[GlobalWind_0]
+  Power 3.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static21 Stationary.Flak37_transport de 349685.72 141106.20 610.00 
+  Static22 Stationary.Flak37_transport de 349711.63 141072.28 610.00 
+  Static26 Stationary.Flak37_transport de 351342.94 141113.06 610.00 
+  Static28 Stationary.Flak37_transport de 351364.78 141071.36 610.00 
+  Static27 Stationary.Flak37_transport de 351418.59 141103.06 610.00 
+  Static20 Stationary.Flak37_transport de 349661.81 141122.16 610.00 
+  Static19 Stationary.Flak37_transport de 349641.84 141142.11 610.00 
+  Static24 Stationary.Flak37_transport de 351331.03 141150.81 610.00 
+  Static25 Stationary.Flak37_transport de 351388.75 141144.84 610.00 
+  Static23 Stationary.Flak37_transport de 351370.88 141172.67 610.00 
+  Static38 Stationary.Bofors_GER_Transport de 351717.16 142375.56 610.00 
+  Static39 Stationary.Bofors_GER_Transport de 351735.25 142367.52 610.00 
+  Static40 Stationary.Bofors_GER_Transport de 351751.34 142349.41 610.00 
+  Static32 Stationary.Bofors_GER_Transport de 351698.31 144212.14 610.00 
+  Static33 Stationary.Bofors_GER_Transport de 351731.06 144208.95 610.00 
+  Static34 Stationary.Bofors_GER_Transport de 351782.78 144227.83 610.00 
+  Static17 Stationary.Flak37_transport de 350399.88 144490.69 610.00 
+  Static16 Stationary.Flak37_transport de 350445.88 144487.97 610.00 
+  Static15 Stationary.Flak37_transport de 350424.22 144517.73 610.00 
+  Static14 Stationary.Flak37_transport de 350408.00 144536.67 610.00 
+  Static18 Stationary.Flak37_transport de 350448.56 144523.14 610.00 
+  Static3 Stationary.Hangars.Double_Tonneau nn 351150.69 144767.80 445.00 
+  Static2 Stationary.Hangars.Double_Tonneau nn 351288.59 144755.97 445.00 
+  Static5 Stationary.Hangars.Double_Tonneau nn 350866.97 144789.47 445.00 
+  Static4 Stationary.Hangars.Double_Tonneau nn 351008.81 144777.64 445.00 
+  Static1 Stationary.Hangars.Double_Tonneau nn 350494.63 144889.94 430.00 
+  Static0 Stationary.Hangars.Double_Tonneau nn 350630.56 144838.72 430.00 
+  Static35 Stationary.Bofors_GER_Transport de 350317.06 144933.31 610.00 
+  Static36 Stationary.Bofors_GER_Transport de 350306.22 144995.64 610.00 
+  Static37 Stationary.Bofors_GER_Transport de 350306.22 145030.83 610.00 
+  Static31 Stationary.Bofors_GER_Transport de 352243.94 145174.09 610.00 
+  Static30 Stationary.Bofors_GER_Transport de 352241.22 145211.98 610.00 
+  Static29 Stationary.Bofors_GER_Transport de 352254.75 145257.98 610.00 
+  Static8 Stationary.Hangars.Double_Tonneau nn 351384.41 145819.66 610.00 
+  Static7 Stationary.Hangars.Double_Tonneau nn 351258.09 145886.84 610.00 
+  Static6 Stationary.Hangars.Double_Tonneau nn 351133.13 145947.33 610.00 
+  Static13 Stationary.Flak37_transport de 351747.72 146287.63 610.00 
+  Static12 Stationary.Flak37_transport de 351777.50 146276.81 610.00 
+  Static11 Stationary.Flak37_transport de 351807.25 146255.16 610.00 
+  Static10 Stationary.Flak37_transport de 351845.16 146247.03 610.00 
+  Static9 Stationary.Flak37_transport de 351885.59 146242.23 610.00 
+[Buildings]
+[BuildingsLinks]
+[Trigger]
+  ArrasAirfield TGroundDestroyed 96 351364 145472 750

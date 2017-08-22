@@ -1,0 +1,63 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 9300 9500 350000 300000 10000
+  TIME 12
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 0
+  ThermalActivity 0
+[GlobalWind_0]
+  Power 0.000 0.000 0.000
+  BottomBound 0.00
+  TopBound 1500.00
+  GustPower 0
+  GustAngle 45
+[splines]
+[CustomChiefs]
+[Stationary]
+  Static31 Artillery.Bofors_StandAlone de 283600.94 124066.66 850.00 /timeout 0/radius_hide 0
+  Static22 Artillery.Flak37 de 283538.63 124133.79 850.00 /timeout 0/radius_hide 0
+  Static23 Artillery.Flak37 de 283500.25 124162.55 850.00 /timeout 0/radius_hide 0
+  Static13 Stationary.Environment.CamoNetPlaneMid de 284213.69 124217.34 760.00 
+  Static1 Stationary.Environment.CamoNetPlaneMid de 283429.59 124277.63 760.00 
+  Static60 Stationary.Bf-109E-1 de 283429.44 124277.09 90.00 
+  Static12 Stationary.Environment.CamoNetPlaneMid de 284259.41 124272.97 760.00 
+  Static0 Stationary.Environment.CamoNetPlaneMid de 283314.03 124303.09 760.00 
+  Static58 Stationary.Bf-109E-1 de 283316.44 124302.52 40.00 
+  Static11 Stationary.Environment.CamoNetPlaneMid de 284274.47 124328.99 760.00 
+  Static24 Artillery.Flak37 de 283332.41 124728.24 850.00 /timeout 0/radius_hide 0
+  Static19 Stationary.Bf-109E-1 de 284219.72 124735.02 145.00 
+  Static30 Artillery.Bofors_StandAlone de 284300.94 124713.92 850.00 /timeout 0/radius_hide 0
+  Static25 Artillery.Flak37 de 283318.03 124776.17 850.00 /timeout 0/radius_hide 0
+  Static17 Stationary.Bf-109E-1 de 284274.88 124843.29 145.00 
+  Static14 Stationary.Bf-109E-1 de 283384.69 124886.16 40.00 
+  Static2 Stationary.Environment.CamoNetPlaneMid de 283384.63 124887.03 760.00 
+  Static18 Stationary.Bf-109E-1 de 284291.22 124897.95 145.00 
+  Static3 Stationary.Environment.CamoNetPlaneMid de 283431.94 124966.69 760.00 
+  Static15 Stationary.Bf-109E-1 de 283431.69 124967.44 40.00 
+  Static16 Stationary.Bf-109E-1 de 283481.91 125033.54 40.00 
+  Static4 Stationary.Environment.CamoNetPlaneMid de 283481.47 125033.42 760.00 
+  Static10 Stationary.Environment.CamoNetPlaneMid de 284433.50 125004.48 895.00 
+  Static9 Stationary.Environment.CamoNetPlaneMid de 284494.34 125061.27 850.00 
+  Static8 Stationary.Environment.CamoNetPlaneMid de 284507.88 125104.33 850.00 
+  Static29 Artillery.Bofors_StandAlone de 283567.38 125131.05 850.00 /timeout 0/radius_hide 0
+  Static20 Stationary.SdKfz_263_8Rad de 284462.09 125222.62 850.00 
+  Static5 Stationary.Environment.CamoNetPlaneMid de 283683.13 125267.53 760.00 
+  Static6 Stationary.Environment.CamoNetPlaneMid de 283726.16 125297.66 760.00 
+  Static21 Stationary.SdKfz_263_8Rad de 284456.13 125301.76 850.00 
+  Static7 Stationary.Environment.CamoNetPlaneMid de 283771.25 125329.88 760.00 
+  Static26 Artillery.Flak37 de 284094.69 125457.01 850.00 /timeout 0/radius_hide 0
+  Static27 Artillery.Bofors_StandAlone de 284137.94 125457.08 850.00 /timeout 0/radius_hide 0
+  Static28 Artillery.Bofors_StandAlone de 284253.00 125495.43 850.00 /timeout 0/radius_hide 0
+  Static32 Artillery.Bofors_StandAlone de 284456.31 125505.07 850.00 /timeout 0/radius_hide 0
+[Buildings]
+  0_bld buildings.House$GermanyControltower 1 284367.44 125152.44 895.00
+  1_bld buildings.House$Hangar_01_GER 1 284407.32 125358.66 895.00
+  2_bld buildings.House$Hangar_01_GER 1 284403.56 125330.71 895.00
+  3_bld buildings.House$Hangar_01_GER 1 284401.57 125305.83 895.00
+[BuildingsLinks]
+[Trigger]
+  Abbev TGroundDestroyed 100 284040 124791 750
