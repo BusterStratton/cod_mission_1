@@ -1,0 +1,58 @@
+
+       public void UpdateTargets(string missionfile)
+    {
+        string FileLine1 = string.Empty;
+        string FileLine2 = string.Empty;
+        string FileLine3 = string.Empty;
+        string FileLine4 = string.Empty;
+        string FileLine5 = string.Empty;
+        string FileLine6 = string.Empty;
+        string FileLine7 = string.Empty;
+        string FileLine8 = string.Empty;
+        string FileLine9 = string.Empty;
+        string FileLine10 = string.Empty;
+        string FileLine11 = string.Empty;
+        string FileLine12 = string.Empty;
+        string FileLine13 = string.Empty;
+        string FileLine14 = string.Empty;
+        string FileLine15 = string.Empty;
+        string FileLine16 = string.Empty;
+        string FileLine17 = string.Empty;
+        string FileLine18 = string.Empty;
+        string FileLine19 = string.Empty;
+        string FileLine20 = string.Empty;
+        string FileLine21 = string.Empty;
+        string FileLine22 = string.Empty;
+        string FileLine23 = string.Empty;
+        string FileLine24 = string.Empty;
+        string FileLine25 = string.Empty;
+        string FileLine26 = string.Empty;
+		
+
+        if (abbevillefuel > 85) { FileLine1 = "tar_Abbevfuel_inactive.mis"; } else { FileLine1 = "tar_Abbevfuel_active.mis"; }
+        if (arrasfuel >85) { FileLine2 = "tar_ArrasFuel_inactive.mis"; } else { FileLine2 = "tar_ArrasFuel_active.mis"; }
+        if (Arras > 85) { FileLine3 = "tar_Arras_inactive.mis"; } else { FileLine25 = "tar_Arras_active.mis"; }
+        if (bapaumerailyard >85) { FileLine4 = "tar_BapaumeRail_inactive.mis"; } else { FileLine3 = "tar_BapaumeRail_active.mis"; }
+        if (letouquefuel > 85) { FileLine5 = "tar_LeTouqfuel_inactive.mis"; } else { FileLine4 = "tar_LeTouqfuel_active.mis"; }
+        if (abbevilleairfield > 85) { FileLine6 = "tar_Abbev_inactive.mis"; } else { FileLine5 = "tar_Abbev_active.mis"; }
+        if (ligescourtairfield > 85) { FileLine7 = "tar_Liges_inactive.mis"; } else { FileLine6 = "tar_Liges_active.mis"; }
+        if (barleyairfield > 85) { FileLine8 = "tar_Barly_inactive.mis"; } else { FileLine7 = "tar_Barly_active.mis"; }
+        if (tramcourtairfield > 85) { FileLine9 = "tar_TramC_inactive.mis"; } else { FileLine8 = "tar_TramC_active.mis"; }
+        if (arrasstairfield > 85) { FileLine10 = "tar_ArrasST_inactive.mis"; } else { FileLine9 = "tar_ArrasST_active.mis"; }
+        if (cremontairfield > 85) { FileLine11 = "tar_Cremont_inactive.mis"; } else { FileLine10 = "tar_Cremont_active.mis"; }
+        if (ywrenchairfield >85) { FileLine12 = "tar_CremontYwernch_inactive.mis"; } else { FileLine11 = "tar_CremontYwernch_active.mis"; }
+        if (poixnordairfield > 85) { FileLine13 = "tar_Poix_inactive.mis"; } else { FileLine12 = "tar_Poix_active.miss"; }
+        if (dieppeairfield > 85) { FileLine14 = "tar_Dieppe_inactive.mis"; } else { FileLine13 = "tar_Dieppe_active.mis"; }
+        if (grandvilliersairfield > 85) { FileLine15 = "tar_GrandV_inactive.mis"; } else { FileLine14 = "tar_GrandV_active.miss"; }
+        if (brambosairfield > 85) { FileLine16 = "tar_BromB_inactive.mis"; } else { FileLine15 = "tar_BromB_active.mis"; }
+        if (rosiersairfield > 85) { FileLine17 = "tar_Rosie_inactive.mis"; } else { FileLine16 = "tar_Rosie_active.mis"; }
+        if (montdideaairfield > 85) { FileLine18 = "tar_MontD_inactive.mis"; } else { FileLine17 = "tar_MontD_active.mis"; }
+        if (hauteairfield > 85) { FileLine19 = "tar_Haute_inactive.mis"; } else { FileLine18 = "tar_Haute_active.miss"; }
+        if (lehavreairfield > 85) { FileLine20 = "tar_LeHav_inactive.mis"; } else { FileLine19 = "tar_LeHav_active.miss"; }
+        if (rouenairfield > 85) { FileLine21 = "tar_Rouen_inactive.mis"; } else { FileLine20 = "tar_Rouen_active.mis"; }
+        if (creponairfield > 85) { FileLine22 = "tar_Crepon_active.miss"; } else { FileLine21 = "tar_Crepon_active.mis"; }
+        if (lehavrefuel0 > 85) { FileLine23 = "tar_LeHavFuel0_inactive.mis"; } else { FileLine22 = "tar_LeHavFuel0_active.mis"; }
+        if (lehavrefuel2 > 85) { FileLine24 = "tar_LeHavFuel2_inactive.mis"; } else { FileLine23 = "tar_LeHavFuel2_active.mis"; }
+        if (lehavrefuel3 > 85) { FileLine25 = "tar_LeHavFuel3_inactive.mis"; } else { FileLine24 = "tar_LeHavFuel3_active.mis"; }
+        if (rouenfuel > 85) { FileLine26 = "tar_RouenFuel_inactive.mis"; } else { FileLine25 = "tar_RouenFuel_active.mis"; }
+        if (letouque > 85) { FileLine5 = "tar_LeTouq_inactive.mis"; } else { FileLine4 = "tar_LeTouq_active.mis"; } 
