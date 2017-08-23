@@ -26,7 +26,9 @@ public enum Objective
     LeHavreFuel0,
     LeHavreFuel2,
     LeHavreFuel3,
-    RouenFuel
+    RouenFuel,
+    LeHavreDam,
+    DieppeFuel,
 }
 public class AirfieldTarget
 {
